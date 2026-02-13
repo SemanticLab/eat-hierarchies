@@ -139,7 +139,8 @@ export default {
   },
   async created() {
     try {
-      const res = await fetch('/data/enriched_hierarchy.json')
+      const base = import.meta.env.BASE_URL
+      const res = await fetch(base + 'data/enriched_hierarchy.json')
       const data = await res.json()
       this.hierarchy = data.hierarchy
       if (this.hierarchy.length > 0) {
