@@ -1,0 +1,54 @@
+name: Update hierarchy data
+
+on:
+  schedule:
+    # Runs every Monday at 6am UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build hierarchy
+        run: python scripts/build_hierarchy.py
+
+      - name: Enrich hierarchy
+        run: python scripts/enrich.py
+
+      - name: Copy data to public dir
+        run: |
+          mkdir -p public/data
+          cp data/enriched_hierarchy.json public/data/
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run build
+
+      - name: Ensure .nojekyll exists
+        run: touch docs/.nojekyll
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ public/data/ docs/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update hierarchy data and rebuild site"
+            git push
+          fi

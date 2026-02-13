@@ -56,7 +56,7 @@
 
     <footer class="footer">
       <div class="footer-rule"></div>
-      <p>Semantic Lab at Pratt Institute &middot; Data from Wikibase</p>
+      <p><a href="https://semlab.io">Semantic Lab at Pratt Institute</a></p>
     </footer>
   </div>
 </template>
