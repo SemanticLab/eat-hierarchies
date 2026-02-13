@@ -5,6 +5,6 @@ export default defineConfig({
   plugins: [vue()],
   base: './',
   build: {
-    outDir: 'page'
+    outDir: 'docs'
   }
 })
