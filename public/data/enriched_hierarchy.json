@@ -1,0 +1,5066 @@
+{
+  "hierarchy": [
+    {
+      "id": "Q23229",
+      "label": "material",
+      "subclasses": [
+        {
+          "id": "Q24230",
+          "label": "wood product",
+          "instances": [
+            {
+              "id": "Q29462",
+              "label": "plank",
+              "description": "material that is flat, elongated, and rectangular with parallel faces that are higher and longer than wide",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29462.jpg"
+              ]
+            }
+          ],
+          "description": "fibrous material from trees or other plants",
+          "used_in": [
+            {
+              "id": "Q22339",
+              "label": "Solo"
+            },
+            {
+              "id": "Q24219",
+              "label": "Bandoneon!"
+            },
+            {
+              "id": "Q24220",
+              "label": "Carriage Discreteness"
+            },
+            {
+              "id": "Q24408",
+              "label": "Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24230.jpg"
+          ]
+        },
+        {
+          "id": "Q26763",
+          "label": "film (material)",
+          "subclasses": [
+            {
+              "id": "Q24453",
+              "label": "VHS",
+              "description": "consumer-level analog video tape recording and cassette form factor standard",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24453.jpg"
+              ]
+            },
+            {
+              "id": "Q24454",
+              "label": "1-inch videotape",
+              "description": "1 inch reel-to-reel analog recording videotape format",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24454.jpg"
+              ]
+            }
+          ],
+          "used_in": [
+            {
+              "id": "Q19382",
+              "label": "Kisses Sweeter Than Wine"
+            },
+            {
+              "id": "Q19644",
+              "label": "Two Holes of Water"
+            },
+            {
+              "id": "Q22656",
+              "label": "moving image"
+            },
+            {
+              "id": "Q24468",
+              "label": "ATS-F Satellite"
+            },
+            {
+              "id": "Q24677",
+              "label": "SITE television satellite project"
+            },
+            {
+              "id": "Q24704",
+              "label": "E.A.T. film restoration and presentation project"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q26763.jpg"
+          ]
+        },
+        {
+          "id": "Q26764",
+          "label": "sculpture (material)",
+          "used_in": [
+            {
+              "id": "Q19496",
+              "label": "Oracle"
+            },
+            {
+              "id": "Q19520",
+              "label": "Physical Things"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q26764.jpg"
+          ]
+        },
+        {
+          "id": "Q26765",
+          "label": "photograph (material)",
+          "subclasses": [
+            {
+              "id": "Q24473",
+              "label": "gelatin silver print",
+              "description": "type of photographic print made using gelatin silver process",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24473.jpg"
+              ]
+            },
+            {
+              "id": "Q24474",
+              "label": "slide",
+              "description": "specially mounted individual reversible film intended for projection onto a screen using a slide projector",
+              "used_in": [
+                {
+                  "id": "Q24220",
+                  "label": "Carriage Discreteness"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24474.jpg"
+              ]
+            },
+            {
+              "id": "Q24475",
+              "label": "polaroid",
+              "description": "positive photographic print produced by a Polaroid camera",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24475.jpg"
+              ]
+            }
+          ],
+          "used_in": [
+            {
+              "id": "Q19158",
+              "label": "Astral Convertible"
+            },
+            {
+              "id": "Q24704",
+              "label": "E.A.T. film restoration and presentation project"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q26765.jpg"
+          ]
+        },
+        {
+          "id": "Q27024",
+          "label": "video recordings (material)",
+          "instances": [
+            {
+              "id": "Q24453",
+              "label": "VHS",
+              "description": "consumer-level analog video tape recording and cassette form factor standard",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24453.jpg"
+              ]
+            },
+            {
+              "id": "Q24454",
+              "label": "1-inch videotape",
+              "description": "1 inch reel-to-reel analog recording videotape format",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24454.jpg"
+              ]
+            }
+          ],
+          "description": "Manifestations of motion pictures, stored electronically, in any media or digitized format.",
+          "exact_match": [
+            "http://vocab.getty.edu/page/aat/300028682"
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q27024.jpg"
+          ]
+        },
+        {
+          "id": "Q29608",
+          "label": "wood product",
+          "instances": [
+            {
+              "id": "Q23890",
+              "label": "pine",
+              "description": "type of wood used largely in the construction and paper industries, although it is also a source of turpentine, resins, and oils, among other products",
+              "used_in": [
+                {
+                  "id": "Q23885",
+                  "label": "model airplanes (sculpture)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q23890.jpg"
+              ]
+            },
+            {
+              "id": "Q24232",
+              "label": "masonite",
+              "description": "type of hardboard",
+              "used_in": [
+                {
+                  "id": "Q24220",
+                  "label": "Carriage Discreteness"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24232.jpg"
+              ]
+            }
+          ],
+          "description": "product made out of wood",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29608.jpg"
+          ]
+        },
+        {
+          "id": "Q29609",
+          "label": "plastic/foam material",
+          "instances": [
+            {
+              "id": "Q23409",
+              "label": "Expandable Polystyrene",
+              "description": "technology used in Floats by Robert Breer",
+              "used_in": [
+                {
+                  "id": "Q22673",
+                  "label": "Disposables"
+                },
+                {
+                  "id": "Q22674",
+                  "label": "Floats"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q23409.jpg"
+              ]
+            },
+            {
+              "id": "Q23415",
+              "label": "Plexiglas",
+              "description": "transparent thermoplastic often used in sheet form as a lightweight or shatter-resistant alternative to glass",
+              "used_in": [
+                {
+                  "id": "Q19601",
+                  "label": "Soundings"
+                },
+                {
+                  "id": "Q22686",
+                  "label": "Bill Harper 1967"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q23415.jpg"
+              ]
+            },
+            {
+              "id": "Q23417",
+              "label": "Scotchpak™",
+              "description": "polyester film laminate produced by 3M",
+              "used_in": [
+                {
+                  "id": "Q19593",
+                  "label": "Silver Clouds"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q23417.jpg"
+              ]
+            },
+            {
+              "id": "Q24344",
+              "label": "Styrofoam",
+              "description": "trademarked brand for extruded polystyrene",
+              "used_in": [
+                {
+                  "id": "Q24220",
+                  "label": "Carriage Discreteness"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24344.jpg"
+              ]
+            },
+            {
+              "id": "Q24413",
+              "label": "Mylar",
+              "description": "Brand of a polyester film; First introduced in the early 1950s, Mylar is composed of polyethylene terephthalate.",
+              "used_in": [
+                {
+                  "id": "Q19382",
+                  "label": "Kisses Sweeter Than Wine"
+                },
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                },
+                {
+                  "id": "Q24456",
+                  "label": "ECHO"
+                },
+                {
+                  "id": "Q24460",
+                  "label": "PAGEOS"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24413.jpg"
+              ]
+            },
+            {
+              "id": "Q24557",
+              "label": "rubber",
+              "description": "polymer from artificial or natural sources",
+              "used_in": [
+                {
+                  "id": "Q19496",
+                  "label": "Oracle"
+                },
+                {
+                  "id": "Q24220",
+                  "label": "Carriage Discreteness"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24557.jpg"
+              ]
+            },
+            {
+              "id": "Q24568",
+              "label": "Lucite",
+              "description": "trademark name for methyl methacrylate made by DuPont",
+              "used_in": [
+                {
+                  "id": "Q24220",
+                  "label": "Carriage Discreteness"
+                },
+                {
+                  "id": "Q25730",
+                  "label": "Lucite shoe"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24568.jpg"
+              ]
+            },
+            {
+              "id": "Q24669",
+              "label": "AstroTurf",
+              "description": "brand of artificial turf",
+              "used_in": [
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24669.jpg"
+              ]
+            },
+            {
+              "id": "Q24672",
+              "label": "asphalt",
+              "description": "form of petroleum, primarily used in road construction",
+              "used_in": [
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24672.jpg"
+              ]
+            },
+            {
+              "id": "Q25790",
+              "label": "polystyrene",
+              "description": "polymer",
+              "used_in": [
+                {
+                  "id": "Q22673",
+                  "label": "Disposables"
+                },
+                {
+                  "id": "Q22674",
+                  "label": "Floats"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q25790.jpg"
+              ]
+            },
+            {
+              "id": "Q29463",
+              "label": "foam rubber",
+              "description": "rubber that has been made with a foaming agent so that its structure is an air-filled matrix",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29463.jpg"
+              ]
+            },
+            {
+              "id": "Q29544",
+              "label": "sand-blasted Plexiglass panel",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29544.jpg"
+              ]
+            }
+          ],
+          "description": "material of a wide range of synthetic or semi-synthetic organic solids",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29609.jpg"
+          ]
+        },
+        {
+          "id": "Q29610",
+          "label": "textile material",
+          "instances": [
+            {
+              "id": "Q24404",
+              "label": "Hexcel materials",
+              "description": "art materials used by E.A.T.",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24404.jpg"
+              ]
+            },
+            {
+              "id": "Q24674",
+              "label": "flag",
+              "description": "piece of fabric with a distinctive design, used as a symbol",
+              "used_in": [
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24674.jpg"
+              ]
+            },
+            {
+              "id": "Q24687",
+              "label": "kite",
+              "description": "tethered aircraft often tied with a rope or string",
+              "used_in": [
+                {
+                  "id": "Q24686",
+                  "label": "Jacqueline Matisse Monnier"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24687.jpg"
+              ]
+            },
+            {
+              "id": "Q24702",
+              "label": "clothing",
+              "description": "covering worn on the human body",
+              "used_in": [
+                {
+                  "id": "Q24700",
+                  "label": "Friends and Neighbors"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24702.jpg"
+              ]
+            },
+            {
+              "id": "Q24710",
+              "label": "ribbon",
+              "description": "long, narrow woven textile, used for trimming, belts, filets, and straps of various kinds",
+              "used_in": [
+                {
+                  "id": "Q24708",
+                  "label": "Fakir in 3/4 Time"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24710.jpg"
+              ]
+            },
+            {
+              "id": "Q29500",
+              "label": "cloth (sack)",
+              "used_in": [
+                {
+                  "id": "Q21364",
+                  "label": "Open Score (9 Evenings performance on October 14, 1966)"
+                },
+                {
+                  "id": "Q29199",
+                  "label": "Open Score (9 Evenings performance on October 23, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29500.jpg"
+              ]
+            },
+            {
+              "id": "Q29501",
+              "label": "cloth",
+              "description": "any textile that is woven, felted, knit, pounded, or otherwise made into a flat piece",
+              "used_in": [
+                {
+                  "id": "Q24239",
+                  "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                },
+                {
+                  "id": "Q29213",
+                  "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29501.jpg"
+              ]
+            },
+            {
+              "id": "Q29559",
+              "label": "linen canvas",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29559.jpg"
+              ]
+            }
+          ],
+          "description": "various fiber-based materials",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29610.jpg"
+          ]
+        }
+      ],
+      "instances": [
+        {
+          "id": "Q23228",
+          "label": "artificial mud",
+          "description": "synthetic material that mimics the mixture of water and soil, silt, or clay",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q23228.jpg"
+          ]
+        },
+        {
+          "id": "Q24229",
+          "label": "neon",
+          "description": "chemical element with symbol Ne and atomic number 10",
+          "used_in": [
+            {
+              "id": "Q22687",
+              "label": "Field Painting"
+            }
+          ],
+          "ieee_term": [
+            "neon"
+          ],
+          "exact_match": [
+            "http://vocab.getty.edu/page/aat/300180393",
+            "http://id.loc.gov/authorities/subjects/sh85090790"
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24229.jpg"
+          ]
+        },
+        {
+          "id": "Q24230",
+          "label": "wood product",
+          "instances": [
+            {
+              "id": "Q29462",
+              "label": "plank",
+              "description": "material that is flat, elongated, and rectangular with parallel faces that are higher and longer than wide",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29462.jpg"
+              ]
+            }
+          ],
+          "description": "fibrous material from trees or other plants",
+          "used_in": [
+            {
+              "id": "Q22339",
+              "label": "Solo"
+            },
+            {
+              "id": "Q24219",
+              "label": "Bandoneon!"
+            },
+            {
+              "id": "Q24220",
+              "label": "Carriage Discreteness"
+            },
+            {
+              "id": "Q24408",
+              "label": "Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24230.jpg"
+          ]
+        },
+        {
+          "id": "Q24231",
+          "label": "metal",
+          "instances": [
+            {
+              "id": "Q24561",
+              "label": "paperclip",
+              "description": "metal device to hold papers together",
+              "used_in": [
+                {
+                  "id": "Q19593",
+                  "label": "Silver Clouds"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24561.jpg"
+              ]
+            },
+            {
+              "id": "Q29555",
+              "label": "steel",
+              "description": "alloy made by combining iron and other elements",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29555.jpg"
+              ]
+            }
+          ],
+          "description": "element, compound or alloy that is a good conductor of both electricity and heat",
+          "used_in": [
+            {
+              "id": "Q24219",
+              "label": "Bandoneon!"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24231.jpg"
+          ]
+        },
+        {
+          "id": "Q24233",
+          "label": "water",
+          "description": "chemical compound; main constituent of the fluids of most living organisms",
+          "used_in": [
+            {
+              "id": "Q19496",
+              "label": "Oracle"
+            },
+            {
+              "id": "Q24573",
+              "label": "Untitled cloud sculpture for Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24233.jpg"
+          ]
+        },
+        {
+          "id": "Q24346",
+          "label": "Jello",
+          "description": "gelatin dessert",
+          "used_in": [
+            {
+              "id": "Q19382",
+              "label": "Kisses Sweeter Than Wine"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24346.jpg"
+          ]
+        },
+        {
+          "id": "Q24356",
+          "label": "mirror",
+          "description": "surface of various shapes and sizes, typically glass coated with a metal amalgam, which reflects a clear image.",
+          "used_in": [
+            {
+              "id": "Q19601",
+              "label": "Soundings"
+            },
+            {
+              "id": "Q19644",
+              "label": "Two Holes of Water"
+            },
+            {
+              "id": "Q24240",
+              "label": "Two Holes of Water (9 Evenings performance on October 18, 1966)"
+            },
+            {
+              "id": "Q24408",
+              "label": "Pepsi Pavilion"
+            },
+            {
+              "id": "Q24412",
+              "label": "Mirror Dome"
+            },
+            {
+              "id": "Q24414",
+              "label": "Clam Room"
+            },
+            {
+              "id": "Q24456",
+              "label": "ECHO"
+            },
+            {
+              "id": "Q24460",
+              "label": "PAGEOS"
+            },
+            {
+              "id": "Q24665",
+              "label": "Untitled (Mirror installation by E.A.T.-Los Angeles)"
+            },
+            {
+              "id": "Q29209",
+              "label": "Two Holes of Water (9 Evenings performance on October 19, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24356.jpg"
+          ]
+        },
+        {
+          "id": "Q24357",
+          "label": "bicycle wheels",
+          "description": "Wheel designed for a bicycle; objects used in Jean Tinguely's sculpture, Homage to New York",
+          "used_in": [
+            {
+              "id": "Q19315",
+              "label": "Homage to New York (sculpture)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24357.jpg"
+          ]
+        },
+        {
+          "id": "Q24401",
+          "label": "paper",
+          "description": "thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24401.jpg"
+          ]
+        },
+        {
+          "id": "Q24404",
+          "label": "Hexcel materials",
+          "description": "art materials used by E.A.T.",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24404.jpg"
+          ]
+        },
+        {
+          "id": "Q24415",
+          "label": "glass",
+          "description": "amorphous solid that exhibits a glass transition when heated towards the liquid state",
+          "used_in": [
+            {
+              "id": "Q24414",
+              "label": "Clam Room"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24415.jpg"
+          ]
+        },
+        {
+          "id": "Q24450",
+          "label": "machine",
+          "description": "tool containing one or more parts that uses energy to perform an intended action",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24450.jpg"
+          ]
+        },
+        {
+          "id": "Q24453",
+          "label": "VHS",
+          "description": "consumer-level analog video tape recording and cassette form factor standard",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24453.jpg"
+          ]
+        },
+        {
+          "id": "Q24454",
+          "label": "1-inch videotape",
+          "description": "1 inch reel-to-reel analog recording videotape format",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24454.jpg"
+          ]
+        },
+        {
+          "id": "Q24467",
+          "label": "silkscreen",
+          "description": "printing technique",
+          "used_in": [
+            {
+              "id": "Q19601",
+              "label": "Soundings"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24467.jpg"
+          ]
+        },
+        {
+          "id": "Q24664",
+          "label": "cloud",
+          "description": "technology used in E.A.T. associated artwork",
+          "used_in": [
+            {
+              "id": "Q19382",
+              "label": "Kisses Sweeter Than Wine"
+            },
+            {
+              "id": "Q24573",
+              "label": "Untitled cloud sculpture for Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24664.jpg"
+          ]
+        },
+        {
+          "id": "Q24670",
+          "label": "slate",
+          "description": "fine-grained, foliated, homogeneous, low-grade metamorphic rock",
+          "used_in": [
+            {
+              "id": "Q24408",
+              "label": "Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24670.jpg"
+          ]
+        },
+        {
+          "id": "Q24671",
+          "label": "tile",
+          "description": "manufactured piece of hard-wearing material",
+          "used_in": [
+            {
+              "id": "Q24408",
+              "label": "Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24671.jpg"
+          ]
+        },
+        {
+          "id": "Q24674",
+          "label": "flag",
+          "description": "piece of fabric with a distinctive design, used as a symbol",
+          "used_in": [
+            {
+              "id": "Q24408",
+              "label": "Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24674.jpg"
+          ]
+        },
+        {
+          "id": "Q24676",
+          "label": "pole",
+          "description": "oblong object, placed vertically (or somewhat obliquely), the width being approximately the same over the entire length",
+          "used_in": [
+            {
+              "id": "Q24411",
+              "label": "Light Frame"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24676.jpg"
+          ]
+        },
+        {
+          "id": "Q24687",
+          "label": "kite",
+          "description": "tethered aircraft often tied with a rope or string",
+          "used_in": [
+            {
+              "id": "Q24686",
+              "label": "Jacqueline Matisse Monnier"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24687.jpg"
+          ]
+        },
+        {
+          "id": "Q24696",
+          "label": "stone",
+          "description": "rock or artificial rock-like material",
+          "used_in": [
+            {
+              "id": "Q24695",
+              "label": "Untitled stone and fog artwork"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24696.jpg"
+          ]
+        },
+        {
+          "id": "Q24702",
+          "label": "clothing",
+          "description": "covering worn on the human body",
+          "used_in": [
+            {
+              "id": "Q24700",
+              "label": "Friends and Neighbors"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24702.jpg"
+          ]
+        },
+        {
+          "id": "Q24710",
+          "label": "ribbon",
+          "description": "long, narrow woven textile, used for trimming, belts, filets, and straps of various kinds",
+          "used_in": [
+            {
+              "id": "Q24708",
+              "label": "Fakir in 3/4 Time"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24710.jpg"
+          ]
+        },
+        {
+          "id": "Q25965",
+          "label": "cardboard",
+          "used_in": [
+            {
+              "id": "Q22690",
+              "label": "White Foam"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q25965.jpg"
+          ]
+        },
+        {
+          "id": "Q25966",
+          "label": "urethane",
+          "used_in": [
+            {
+              "id": "Q22690",
+              "label": "White Foam"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q25966.jpg"
+          ]
+        },
+        {
+          "id": "Q29381",
+          "label": "net",
+          "description": "material used in E.A.T. performances",
+          "used_in": [
+            {
+              "id": "Q19495",
+              "label": "Open Score"
+            },
+            {
+              "id": "Q21364",
+              "label": "Open Score (9 Evenings performance on October 14, 1966)"
+            },
+            {
+              "id": "Q29199",
+              "label": "Open Score (9 Evenings performance on October 23, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29381.jpg"
+          ]
+        },
+        {
+          "id": "Q29496",
+          "label": "white paper",
+          "description": "paper product",
+          "used_in": [
+            {
+              "id": "Q24240",
+              "label": "Two Holes of Water (9 Evenings performance on October 18, 1966)"
+            },
+            {
+              "id": "Q29209",
+              "label": "Two Holes of Water (9 Evenings performance on October 19, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29496.jpg"
+          ]
+        },
+        {
+          "id": "Q29527",
+          "label": "carbon black",
+          "description": "chemical substance",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29527.jpg"
+          ]
+        },
+        {
+          "id": "Q29546",
+          "label": "truck door",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29546.jpg"
+          ]
+        },
+        {
+          "id": "Q29547",
+          "label": "window frame",
+          "description": "framework around a window",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29547.jpg"
+          ]
+        },
+        {
+          "id": "Q29548",
+          "label": "bathtub",
+          "description": "large container for holding water in which a person may bathe",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29548.jpg"
+          ]
+        },
+        {
+          "id": "Q29549",
+          "label": "air vent",
+          "description": "conduit to direct airflow, used in heating, ventilation, and air conditioning",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29549.jpg"
+          ]
+        },
+        {
+          "id": "Q29551",
+          "label": "giant rubber band",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29551.jpg"
+          ]
+        },
+        {
+          "id": "Q29552",
+          "label": "hot glue",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29552.jpg"
+          ]
+        },
+        {
+          "id": "Q29553",
+          "label": "screw",
+          "description": "fastener that has a thread wrapped around a cylinder",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29553.jpg"
+          ]
+        },
+        {
+          "id": "Q29554",
+          "label": "bolt",
+          "description": "small metal rods used as fasteners having a head and often helical threading and being usually secured by a nut or by riveting",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29554.jpg"
+          ]
+        },
+        {
+          "id": "Q29558",
+          "label": "synthetic paint",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29558.jpg"
+          ]
+        },
+        {
+          "id": "Q29561",
+          "label": "phosphor",
+          "description": "luminescent substance",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29561.jpg"
+          ]
+        },
+        {
+          "id": "Q29729",
+          "label": "polyurethane",
+          "description": "polymer composed of a chain of organic units joined by carbamate (urethane) links",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29729.jpg"
+          ]
+        },
+        {
+          "id": "Q29740",
+          "label": "ultrasonic beams",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29740.jpg"
+          ]
+        }
+      ],
+      "description": "substance that can occur in different amounts, all with some similar [mixture of some] characteristics, and with which objects can be made",
+      "thumbnail": [
+        "https://semlab.s3.amazonaws.com/images/Q23229.jpg"
+      ]
+    },
+    {
+      "id": "Q29602",
+      "label": "phenomenon",
+      "subclasses": [
+        {
+          "id": "Q29611",
+          "label": "auditory phenomenon",
+          "instances": [
+            {
+              "id": "Q24402",
+              "label": "computer generated sound",
+              "description": "technology developed by E.A.T.",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24402.jpg"
+              ]
+            },
+            {
+              "id": "Q24565",
+              "label": "horn",
+              "description": "sound used in 9 Evenings performance",
+              "used_in": [
+                {
+                  "id": "Q24235",
+                  "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24565.jpg"
+              ]
+            },
+            {
+              "id": "Q24717",
+              "label": "horses hooves sound recording",
+              "description": "sound developed by E.A.T.",
+              "used_in": [
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24717.jpg"
+              ]
+            },
+            {
+              "id": "Q24718",
+              "label": "shattering glass sound recording",
+              "description": "sound developed by E.A.T.",
+              "used_in": [
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24718.jpg"
+              ]
+            },
+            {
+              "id": "Q24719",
+              "label": "ducks sound recording",
+              "description": "sound developed by E.A.T.",
+              "used_in": [
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24719.jpg"
+              ]
+            },
+            {
+              "id": "Q24720",
+              "label": "frogs sound recording",
+              "description": "sound developed by E.A.T.",
+              "used_in": [
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24720.jpg"
+              ]
+            },
+            {
+              "id": "Q24721",
+              "label": "cicadas sound recording",
+              "description": "sound developed by E.A.T.",
+              "used_in": [
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24721.jpg"
+              ]
+            },
+            {
+              "id": "Q24722",
+              "label": "lions roaring sound recording",
+              "description": "sound developed by E.A.T.",
+              "used_in": [
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24722.jpg"
+              ]
+            },
+            {
+              "id": "Q29457",
+              "label": "ultrasonic sound beam",
+              "used_in": [
+                {
+                  "id": "Q22693",
+                  "label": "Vehicle"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29457.jpg"
+              ]
+            },
+            {
+              "id": "Q29495",
+              "label": "reverberation",
+              "description": "persistence of sound after the sound is produced",
+              "used_in": [
+                {
+                  "id": "Q24338",
+                  "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                },
+                {
+                  "id": "Q29208",
+                  "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29495.jpg"
+              ]
+            },
+            {
+              "id": "Q29517",
+              "label": "radio band",
+              "description": "frequency band used to broadcast radio",
+              "used_in": [
+                {
+                  "id": "Q24338",
+                  "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                },
+                {
+                  "id": "Q29208",
+                  "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29517.jpg"
+              ]
+            },
+            {
+              "id": "Q29518",
+              "label": "television band",
+              "description": "frequency band used to broadcast television",
+              "used_in": [
+                {
+                  "id": "Q24338",
+                  "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                },
+                {
+                  "id": "Q29208",
+                  "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29518.jpg"
+              ]
+            },
+            {
+              "id": "Q29519",
+              "label": "communication band",
+              "description": "range of radio frequencies used for various purposes",
+              "used_in": [
+                {
+                  "id": "Q23778",
+                  "label": "Variations VII"
+                },
+                {
+                  "id": "Q24338",
+                  "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                },
+                {
+                  "id": "Q29208",
+                  "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29519.jpg"
+              ]
+            },
+            {
+              "id": "Q29523",
+              "label": "sonar frequency",
+              "description": "rate of sound waves per second used in sonar detection",
+              "used_in": [
+                {
+                  "id": "Q24632",
+                  "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+                },
+                {
+                  "id": "Q29207",
+                  "label": "Vehicle (9 Evenings performance on October 23, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29523.jpg"
+              ]
+            }
+          ],
+          "description": "experiences related to sound perception",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29611.jpg"
+          ]
+        },
+        {
+          "id": "Q29612",
+          "label": "light phenomenon",
+          "instances": [
+            {
+              "id": "Q23410",
+              "label": "helium-neon gas laser",
+              "description": "type of gas laser; technology used in Light Sculptures by Robert Whitman, Eric Rawson, and Larry Heilos",
+              "used_in": [
+                {
+                  "id": "Q22681",
+                  "label": "Light Sculptures"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q23410.jpg"
+              ]
+            },
+            {
+              "id": "Q24349",
+              "label": "electric light",
+              "description": "any device that produces light from electricity",
+              "used_in": [
+                {
+                  "id": "Q19158",
+                  "label": "Astral Convertible"
+                },
+                {
+                  "id": "Q19495",
+                  "label": "Open Score"
+                },
+                {
+                  "id": "Q19601",
+                  "label": "Soundings"
+                },
+                {
+                  "id": "Q19651",
+                  "label": "Variations V"
+                },
+                {
+                  "id": "Q22339",
+                  "label": "Solo"
+                },
+                {
+                  "id": "Q23778",
+                  "label": "Variations VII"
+                },
+                {
+                  "id": "Q24219",
+                  "label": "Bandoneon!"
+                },
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                },
+                {
+                  "id": "Q24411",
+                  "label": "Light Frame"
+                },
+                {
+                  "id": "Q24412",
+                  "label": "Mirror Dome"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24349.jpg"
+              ]
+            },
+            {
+              "id": "Q24398",
+              "label": "laser",
+              "description": "device which emits light via optical amplification",
+              "used_in": [
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                },
+                {
+                  "id": "Q24412",
+                  "label": "Mirror Dome"
+                },
+                {
+                  "id": "Q24414",
+                  "label": "Clam Room"
+                }
+              ],
+              "ieee_term": [
+                "lasers"
+              ],
+              "exact_match": [
+                "http://vocab.getty.edu/page/aat/300024548",
+                "https://id.loc.gov/authorities/subjects/sh85074788.html"
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24398.jpg"
+              ]
+            },
+            {
+              "id": "Q24399",
+              "label": "holography",
+              "description": "photographic technique using diffraction to produce three-dimensional images",
+              "ieee_term": [
+                "holography"
+              ],
+              "exact_match": [
+                "http://vocab.getty.edu/page/aat/300053341",
+                "http://id.loc.gov/authorities/subjects/sh85061533"
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24399.jpg"
+              ]
+            },
+            {
+              "id": "Q24479",
+              "label": "color beam",
+              "used_in": [
+                {
+                  "id": "Q24414",
+                  "label": "Clam Room"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24479.jpg"
+              ]
+            },
+            {
+              "id": "Q24490",
+              "label": "fog",
+              "used_in": [
+                {
+                  "id": "Q24573",
+                  "label": "Untitled cloud sculpture for Pepsi Pavilion"
+                },
+                {
+                  "id": "Q24693",
+                  "label": "Opal Loop"
+                },
+                {
+                  "id": "Q24695",
+                  "label": "Untitled stone and fog artwork"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24490.jpg"
+              ]
+            },
+            {
+              "id": "Q24491",
+              "label": "convection currents",
+              "used_in": [
+                {
+                  "id": "Q24693",
+                  "label": "Opal Loop"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24491.jpg"
+              ]
+            },
+            {
+              "id": "Q24535",
+              "label": "hologram",
+              "description": "intermediate photograph that contains information for reproducing a three-dimensional image by holography",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24535.jpg"
+              ]
+            },
+            {
+              "id": "Q24555",
+              "label": "color theory",
+              "description": "principles around the use of color in visual arts",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24555.jpg"
+              ]
+            },
+            {
+              "id": "Q24664",
+              "label": "cloud",
+              "description": "technology used in E.A.T. associated artwork",
+              "used_in": [
+                {
+                  "id": "Q19382",
+                  "label": "Kisses Sweeter Than Wine"
+                },
+                {
+                  "id": "Q24573",
+                  "label": "Untitled cloud sculpture for Pepsi Pavilion"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24664.jpg"
+              ]
+            },
+            {
+              "id": "Q29498",
+              "label": "infrared light",
+              "description": "electromagnetic radiation with longer wavelengths than those of visible light",
+              "used_in": [
+                {
+                  "id": "Q21364",
+                  "label": "Open Score (9 Evenings performance on October 14, 1966)"
+                },
+                {
+                  "id": "Q29199",
+                  "label": "Open Score (9 Evenings performance on October 23, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29498.jpg"
+              ]
+            },
+            {
+              "id": "Q29524",
+              "label": "movie projection",
+              "description": "film projected onto a screen",
+              "used_in": [
+                {
+                  "id": "Q24240",
+                  "label": "Two Holes of Water (9 Evenings performance on October 18, 1966)"
+                },
+                {
+                  "id": "Q24631",
+                  "label": "Physical Things (9 Evenings performance on October 13, 1966)"
+                },
+                {
+                  "id": "Q29209",
+                  "label": "Two Holes of Water (9 Evenings performance on October 19, 1966)"
+                },
+                {
+                  "id": "Q29211",
+                  "label": "Physical Things (9 Evenings performance on October 19, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29524.jpg"
+              ]
+            }
+          ],
+          "description": "any observable event from light interacting with matter",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29612.jpg"
+          ]
+        },
+        {
+          "id": "Q29613",
+          "label": "biological signal or activity",
+          "instances": [
+            {
+              "id": "Q29502",
+              "label": "\"body sounds\"",
+              "used_in": [
+                {
+                  "id": "Q24239",
+                  "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                },
+                {
+                  "id": "Q29213",
+                  "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29502.jpg"
+              ]
+            },
+            {
+              "id": "Q29503",
+              "label": "brain wave",
+              "description": "brainwaves, repetitive patterns of neural activity in the central nervous system",
+              "used_in": [
+                {
+                  "id": "Q24239",
+                  "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                },
+                {
+                  "id": "Q24338",
+                  "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                },
+                {
+                  "id": "Q29208",
+                  "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                },
+                {
+                  "id": "Q29213",
+                  "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29503.jpg"
+              ]
+            },
+            {
+              "id": "Q29504",
+              "label": "muscle activity",
+              "description": "movement of muscles in the body",
+              "used_in": [
+                {
+                  "id": "Q24239",
+                  "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                },
+                {
+                  "id": "Q29213",
+                  "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29504.jpg"
+              ]
+            },
+            {
+              "id": "Q29505",
+              "label": "eye movement",
+              "description": "voluntary or involuntary movement of the eyes, helping in acquiring, fixating and tracking visual stimuli",
+              "used_in": [
+                {
+                  "id": "Q24239",
+                  "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                },
+                {
+                  "id": "Q29213",
+                  "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29505.jpg"
+              ]
+            }
+          ],
+          "description": "the measurable electrical, chemical, or mechanical outputs from living organisms, like brainwaves (EEG), heartbeats (ECG), or muscle twitches (EMG)",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29613.jpg"
+          ]
+        }
+      ],
+      "description": "any object, fact, or occurrence perceived or observed",
+      "thumbnail": [
+        "https://semlab.s3.amazonaws.com/images/Q29602.jpg"
+      ]
+    },
+    {
+      "id": "Q19076",
+      "label": "technology",
+      "subclasses": [
+        {
+          "id": "Q29599",
+          "label": "device",
+          "subclasses": [
+            {
+              "id": "Q20619",
+              "label": "musical instrument",
+              "instances": [
+                {
+                  "id": "Q20620",
+                  "label": "trumpet",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20620.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20621",
+                  "label": "accordion",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20621.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20622",
+                  "label": "vocals",
+                  "description": "cateogry of music making in which the voice is used as an instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20622.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20623",
+                  "label": "saxophone",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20623.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20624",
+                  "label": "trombone",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20624.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20625",
+                  "label": "tenor saxophone",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20625.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20626",
+                  "label": "bass",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20626.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20627",
+                  "label": "drums",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20627.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20628",
+                  "label": "guitar",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20628.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20629",
+                  "label": "alto saxophone",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20629.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20630",
+                  "label": "piano",
+                  "description": "musical instrument",
+                  "used_in": [
+                    {
+                      "id": "Q19315",
+                      "label": "Homage to New York (sculpture)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20630.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20631",
+                  "label": "baritone saxophone",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20631.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20689",
+                  "label": "violin",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20689.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20720",
+                  "label": "flute",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20720.jpg"
+                  ]
+                },
+                {
+                  "id": "Q20721",
+                  "label": "clarinet",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q20721.jpg"
+                  ]
+                },
+                {
+                  "id": "Q21134",
+                  "label": "mellophone",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q21134.jpg"
+                  ]
+                },
+                {
+                  "id": "Q21182",
+                  "label": "organ",
+                  "description": "musicial instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q21182.jpg"
+                  ]
+                },
+                {
+                  "id": "Q27057",
+                  "label": "cornet",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q27057.jpg"
+                  ]
+                },
+                {
+                  "id": "Q27058",
+                  "label": "banjo",
+                  "description": "musical instrument",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q27058.jpg"
+                  ]
+                },
+                {
+                  "id": "Q28942",
+                  "label": "bandoneon",
+                  "description": "musical instrument",
+                  "used_in": [
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q28942.jpg"
+                  ]
+                }
+              ],
+              "description": "device created or adapted to make musical sounds",
+              "used_in": [
+                {
+                  "id": "Q23778",
+                  "label": "Variations VII"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q20619.jpg"
+              ]
+            },
+            {
+              "id": "Q24355",
+              "label": "home appliance",
+              "instances": [
+                {
+                  "id": "Q24711",
+                  "label": "vacuum",
+                  "description": "device that sucks up dust and dirt from floors",
+                  "used_in": [
+                    {
+                      "id": "Q24708",
+                      "label": "Fakir in 3/4 Time"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24711.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29512",
+                  "label": "blender",
+                  "description": "type of home appliance",
+                  "used_in": [
+                    {
+                      "id": "Q24338",
+                      "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                    },
+                    {
+                      "id": "Q29208",
+                      "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29512.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29513",
+                  "label": "juicer",
+                  "description": "equipment to extract fruits and vegetables juices",
+                  "used_in": [
+                    {
+                      "id": "Q24338",
+                      "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                    },
+                    {
+                      "id": "Q29208",
+                      "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29513.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29514",
+                  "label": "toaster",
+                  "description": "small oven for cooking bread",
+                  "used_in": [
+                    {
+                      "id": "Q24338",
+                      "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                    },
+                    {
+                      "id": "Q29208",
+                      "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29514.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29516",
+                  "label": "fan",
+                  "description": "complete appliance containing electric fan and stand or mount",
+                  "used_in": [
+                    {
+                      "id": "Q24338",
+                      "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                    },
+                    {
+                      "id": "Q29208",
+                      "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29516.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29542",
+                  "label": "vacuum cleaner motor",
+                  "description": "material used in the ground effect machine created for 9 Evenings",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29542.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29573",
+                  "label": "refrigerator",
+                  "description": "household appliance that cools and preserves food by removing heat from its interior",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29573.jpg"
+                  ]
+                }
+              ],
+              "description": "machine for household uses; various household appliances such as toaster, blender, etc used in artwork created for 9 Evenings.",
+              "used_in": [
+                {
+                  "id": "Q23778",
+                  "label": "Variations VII"
+                },
+                {
+                  "id": "Q24338",
+                  "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                },
+                {
+                  "id": "Q29208",
+                  "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24355.jpg"
+              ]
+            },
+            {
+              "id": "Q29584",
+              "label": "sensor",
+              "instances": [
+                {
+                  "id": "Q24488",
+                  "label": "corner reflector",
+                  "used_in": [
+                    {
+                      "id": "Q24487",
+                      "label": "outdoor projection screen for Centre Georges Pompidou"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24488.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29540",
+                  "label": "photocell switching circuit",
+                  "description": "a circuit that lets light beams control sound, so breaking a beam triggers an audio response; a unique technology created for 9 Evenings.",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29540.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29541",
+                  "label": "photocell",
+                  "description": "a small sensor that changes its electrical signal in response to light",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29541.jpg"
+                  ]
+                }
+              ],
+              "description": "device that measures a physical quantity and converts it into a signal",
+              "used_in": [
+                {
+                  "id": "Q24239",
+                  "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                },
+                {
+                  "id": "Q29213",
+                  "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29584.jpg"
+              ]
+            },
+            {
+              "id": "Q29603",
+              "label": "communication device",
+              "instances": [
+                {
+                  "id": "Q24364",
+                  "label": "radio",
+                  "used_in": [
+                    {
+                      "id": "Q19496",
+                      "label": "Oracle"
+                    },
+                    {
+                      "id": "Q19651",
+                      "label": "Variations V"
+                    },
+                    {
+                      "id": "Q22339",
+                      "label": "Solo"
+                    },
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24364.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24457",
+                  "label": "communications satellite",
+                  "description": "artificial satellite designed for telecommunications",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24457.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24482",
+                  "label": "telephone line",
+                  "used_in": [
+                    {
+                      "id": "Q19207",
+                      "label": "Children and Communication"
+                    },
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24482.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24483",
+                  "label": "facsimile machine",
+                  "used_in": [
+                    {
+                      "id": "Q19207",
+                      "label": "Children and Communication"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24483.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24485",
+                  "label": "telephone",
+                  "used_in": [
+                    {
+                      "id": "Q19207",
+                      "label": "Children and Communication"
+                    },
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24485.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24486",
+                  "label": "parabolic antenna",
+                  "used_in": [
+                    {
+                      "id": "Q24684",
+                      "label": "Island Eye Island Ear"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24486.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24497",
+                  "label": "telex machine",
+                  "used_in": [
+                    {
+                      "id": "Q19207",
+                      "label": "Children and Communication"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24497.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24559",
+                  "label": "antenna",
+                  "description": "electrical device which converts electric power into radio waves, and vice versa",
+                  "used_in": [
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    },
+                    {
+                      "id": "Q19651",
+                      "label": "Variations V"
+                    },
+                    {
+                      "id": "Q22339",
+                      "label": "Solo"
+                    },
+                    {
+                      "id": "Q24684",
+                      "label": "Island Eye Island Ear"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24559.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24673",
+                  "label": "handset",
+                  "description": "component of a telephone that a user holds to the ear and mouth",
+                  "used_in": [
+                    {
+                      "id": "Q24408",
+                      "label": "Pepsi Pavilion"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24673.jpg"
+                  ]
+                },
+                {
+                  "id": "Q25932",
+                  "label": "telex",
+                  "description": "switched network of teleprinters",
+                  "used_in": [
+                    {
+                      "id": "Q24496",
+                      "label": "Telex: Q&A"
+                    },
+                    {
+                      "id": "Q24679",
+                      "label": "Utopia and Visions: 1871-1981"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q25932.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29426",
+                  "label": "two transistor radio",
+                  "description": "a receiver which uses only two transistor as active elements and can tune local strong AM stations using as antenna only a piece of wire",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29426.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29466",
+                  "label": "walkie talkie",
+                  "description": "a hand-held, portable, two-way radio transceiver",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29466.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29526",
+                  "label": "FM transmitter",
+                  "description": "device for broadcasting radio signals",
+                  "used_in": [
+                    {
+                      "id": "Q24238",
+                      "label": "Solo (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q29210",
+                      "label": "Solo (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29526.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29569",
+                  "label": "patch panel",
+                  "description": "board that routes signals by letting you manually connect different circuit paths",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29569.jpg"
+                  ]
+                }
+              ],
+              "description": "technology for conveying meaning, usually across distance",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29603.jpg"
+              ]
+            },
+            {
+              "id": "Q29604",
+              "label": "signal processing component",
+              "instances": [
+                {
+                  "id": "Q23353",
+                  "label": "speech synthesizer",
+                  "description": "technology used in Synthetic Speech by Deborah Hay, Cecil Coker, and Steve Paxton",
+                  "used_in": [
+                    {
+                      "id": "Q22671",
+                      "label": "Synthetic Speech"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q23353.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24337",
+                  "label": "timing device",
+                  "description": "technology used in Homage to New York",
+                  "used_in": [
+                    {
+                      "id": "Q19315",
+                      "label": "Homage to New York (sculpture)"
+                    },
+                    {
+                      "id": "Q24215",
+                      "label": "The Apple"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24337.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24359",
+                  "label": "relay switch",
+                  "used_in": [
+                    {
+                      "id": "Q24215",
+                      "label": "The Apple"
+                    },
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24359.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24360",
+                  "label": "circuit",
+                  "description": "circuit containing active components such as transistors, valves or integrated circuits",
+                  "used_in": [
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    },
+                    {
+                      "id": "Q22687",
+                      "label": "Field Painting"
+                    },
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    },
+                    {
+                      "id": "Q24700",
+                      "label": "Friends and Neighbors"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24360.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24362",
+                  "label": "radio transmitter",
+                  "used_in": [
+                    {
+                      "id": "Q19159",
+                      "label": "At My Body's House"
+                    },
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    },
+                    {
+                      "id": "Q19496",
+                      "label": "Oracle"
+                    },
+                    {
+                      "id": "Q22693",
+                      "label": "Vehicle"
+                    },
+                    {
+                      "id": "Q23737",
+                      "label": "Festival for Theater and Engineering"
+                    },
+                    {
+                      "id": "Q24570",
+                      "label": "Grass Field"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24362.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24370",
+                  "label": "oscillator",
+                  "description": "physical system that undergoes repetitive cyclic change",
+                  "used_in": [
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    },
+                    {
+                      "id": "Q24570",
+                      "label": "Grass Field"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24370.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24371",
+                  "label": "pulse generator",
+                  "used_in": [
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24371.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24480",
+                  "label": "nozzle system",
+                  "used_in": [
+                    {
+                      "id": "Q24573",
+                      "label": "Untitled cloud sculpture for Pepsi Pavilion"
+                    },
+                    {
+                      "id": "Q24693",
+                      "label": "Opal Loop"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24480.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24558",
+                  "label": "control circuit",
+                  "description": "technology used in E.A.T.",
+                  "used_in": [
+                    {
+                      "id": "Q19496",
+                      "label": "Oracle"
+                    },
+                    {
+                      "id": "Q19651",
+                      "label": "Variations V"
+                    },
+                    {
+                      "id": "Q22339",
+                      "label": "Solo"
+                    },
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24558.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24564",
+                  "label": "transducer",
+                  "description": "device that converts a signal in one form to another form",
+                  "used_in": [
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    }
+                  ],
+                  "ieee_term": [
+                    "transducers"
+                  ],
+                  "exact_match": [
+                    "http://vocab.getty.edu/page/aat/300264909",
+                    "http://id.loc.gov/authorities/subjects/sh85136892"
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24564.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29376",
+                  "label": "transmitter",
+                  "description": "material used in the technology \"Doppler Sonar\"",
+                  "used_in": [
+                    {
+                      "id": "Q24235",
+                      "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q24239",
+                      "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q24631",
+                      "label": "Physical Things (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q24632",
+                      "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+                    },
+                    {
+                      "id": "Q29207",
+                      "label": "Vehicle (9 Evenings performance on October 23, 1966)"
+                    },
+                    {
+                      "id": "Q29211",
+                      "label": "Physical Things (9 Evenings performance on October 19, 1966)"
+                    },
+                    {
+                      "id": "Q29213",
+                      "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                    },
+                    {
+                      "id": "Q29215",
+                      "label": "Bandoneon! (9 Evenings performance on October 18, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29376.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29467",
+                  "label": "40-channel filter circuit",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29467.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29490",
+                  "label": "processing circuit",
+                  "description": "an electronic circuit that processes signals from an external source",
+                  "used_in": [
+                    {
+                      "id": "Q24235",
+                      "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q29215",
+                      "label": "Bandoneon! (9 Evenings performance on October 18, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29490.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29491",
+                  "label": "relay",
+                  "description": "electrically operated switch",
+                  "used_in": [
+                    {
+                      "id": "Q24238",
+                      "label": "Solo (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q24632",
+                      "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+                    },
+                    {
+                      "id": "Q29207",
+                      "label": "Vehicle (9 Evenings performance on October 23, 1966)"
+                    },
+                    {
+                      "id": "Q29210",
+                      "label": "Solo (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29491.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29507",
+                  "label": "voltage controlled oscillator",
+                  "used_in": [
+                    {
+                      "id": "Q24239",
+                      "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q29213",
+                      "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29507.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29510",
+                  "label": "FM signal",
+                  "description": "an electromagnetic signal that transmits information through variations in its frequency",
+                  "used_in": [
+                    {
+                      "id": "Q24238",
+                      "label": "Solo (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q29210",
+                      "label": "Solo (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29510.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29563",
+                  "label": "radio loop system",
+                  "description": "a system that captures and re-routes radio signals for real-time use in a performance.",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29563.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29564",
+                  "label": "encoder",
+                  "description": "a component that converts a signal into a coded form for processing",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29564.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29565",
+                  "label": "decoder",
+                  "description": "a component that translates a coded signal back into usable form",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29565.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29566",
+                  "label": "power relay",
+                  "description": "a switch that uses a small control signal to open or close a higher-power circuit",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29566.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29567",
+                  "label": "FM receiver",
+                  "description": "a circuit that extracts an audio or control signal from an FM transmission",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29567.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29568",
+                  "label": "silicon-controlled rectifier circuitry",
+                  "description": "a circuit that controls electrical flow with a switchable semiconductor",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29568.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29570",
+                  "label": "tonal control circuit",
+                  "description": "circuit that shapes or adjusts the frequencies in an audio signal",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29570.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29571",
+                  "label": "drum switch",
+                  "description": "rotary switch that changes circuit connections through a series of mechanical positions.",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29571.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29572",
+                  "label": "preamplifier",
+                  "description": "circuit that boosts a weak signal before further processing",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29572.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29592",
+                  "label": "flying spot scanner",
+                  "description": "turns light levels into electrical signals.",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29592.jpg"
+                  ]
+                }
+              ],
+              "description": "electronic process that converts and transforms data in a way that allows us to see things in it that are not possible via direct observation",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29604.jpg"
+              ]
+            },
+            {
+              "id": "Q29605",
+              "label": "uniquely engineered device",
+              "instances": [
+                {
+                  "id": "Q19614",
+                  "label": "TEEM",
+                  "description": "a custom-built wireless system that enabled performers to control lights, sounds, and stage elements in real time",
+                  "used_in": [
+                    {
+                      "id": "Q21364",
+                      "label": "Open Score (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q24235",
+                      "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q24236",
+                      "label": "Carriage Discreteness (9 Evenings performance on October 15, 1966)"
+                    },
+                    {
+                      "id": "Q24238",
+                      "label": "Solo (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q24239",
+                      "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q24240",
+                      "label": "Two Holes of Water (9 Evenings performance on October 18, 1966)"
+                    },
+                    {
+                      "id": "Q24241",
+                      "label": "Kisses Sweeter than Wine (9 Evenings performance on October 21, 1966)"
+                    },
+                    {
+                      "id": "Q24338",
+                      "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                    },
+                    {
+                      "id": "Q24631",
+                      "label": "Physical Things (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q24632",
+                      "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+                    },
+                    {
+                      "id": "Q29199",
+                      "label": "Open Score (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q19614.jpg"
+                  ]
+                },
+                {
+                  "id": "Q22384",
+                  "label": "Proportional Control System",
+                  "description": "tool developed by Fred Waldhauer and Cecil Coker",
+                  "used_in": [
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    },
+                    {
+                      "id": "Q22339",
+                      "label": "Solo"
+                    },
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    },
+                    {
+                      "id": "Q24235",
+                      "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q24238",
+                      "label": "Solo (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q29210",
+                      "label": "Solo (9 Evenings performance on October 23, 1966)"
+                    },
+                    {
+                      "id": "Q29215",
+                      "label": "Bandoneon! (9 Evenings performance on October 18, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q22384.jpg"
+                  ]
+                },
+                {
+                  "id": "Q22667",
+                  "label": "Feedback Device",
+                  "description": "technology developed by E.A.T.",
+                  "used_in": [
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    },
+                    {
+                      "id": "Q21365",
+                      "label": "Linoleum (NOW Festival performance)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q22667.jpg"
+                  ]
+                },
+                {
+                  "id": "Q22677",
+                  "label": "ground effect machine",
+                  "description": "technology associated with E.A.T.",
+                  "used_in": [
+                    {
+                      "id": "Q23515",
+                      "label": "Q23515"
+                    },
+                    {
+                      "id": "Q24632",
+                      "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+                    },
+                    {
+                      "id": "Q29207",
+                      "label": "Vehicle (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q22677.jpg"
+                  ]
+                },
+                {
+                  "id": "Q22679",
+                  "label": "sound-wired tennis racket",
+                  "description": "Tennis racket equipped with electronic components used as props during Robert Rauschenberg's performance \"Open Score\" presented in the context of \"9 Evenings: Theatre and Engineering\" held at the 69th Regiment Armory in New York in 1966.",
+                  "used_in": [
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q22679.jpg"
+                  ]
+                },
+                {
+                  "id": "Q22680",
+                  "label": "Doppler Sonar system for Vehicle",
+                  "description": "70 kHz sound installation used in Lucinda Childs' piece, Vehicle",
+                  "used_in": [
+                    {
+                      "id": "Q22693",
+                      "label": "Vehicle"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q22680.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24377",
+                  "label": "engineered pillow",
+                  "description": "engineered for Öyvind Fahlström’s Kisses Sweeter than Wine",
+                  "used_in": [
+                    {
+                      "id": "Q19382",
+                      "label": "Kisses Sweeter Than Wine"
+                    },
+                    {
+                      "id": "Q24241",
+                      "label": "Kisses Sweeter than Wine (9 Evenings performance on October 21, 1966)"
+                    },
+                    {
+                      "id": "Q29212",
+                      "label": "Kisses Sweeter than Wine (9 Evenings performance on October 22, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24377.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24378",
+                  "label": "remote controlled mylar missile",
+                  "description": "engineered for Öyvind Fahlström’s Kisses Sweeter than Wine",
+                  "used_in": [
+                    {
+                      "id": "Q19382",
+                      "label": "Kisses Sweeter Than Wine"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24378.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24383",
+                  "label": "engineered snowflakes",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24383.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24492",
+                  "label": "gas-driven heat blower",
+                  "used_in": [
+                    {
+                      "id": "Q24693",
+                      "label": "Opal Loop"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24492.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24493",
+                  "label": "DC power station",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24493.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24571",
+                  "label": "radio-controlled cart",
+                  "used_in": [
+                    {
+                      "id": "Q22339",
+                      "label": "Solo"
+                    },
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24571.jpg"
+                  ]
+                },
+                {
+                  "id": "Q25730",
+                  "label": "Lucite shoe",
+                  "description": "shoes encased with Lucite made by French sculptor Arman for Map Room II. Worn by Robert Rauschenberg during the performance",
+                  "used_in": [
+                    {
+                      "id": "Q19428",
+                      "label": "Map Room II"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q25730.jpg"
+                  ]
+                },
+                {
+                  "id": "Q25741",
+                  "label": "locomotized ballet shoes",
+                  "description": "ballet shoes with ball bearings, never worn in performance",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q25741.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29385",
+                  "label": "Vochrome",
+                  "description": "sound processor",
+                  "used_in": [
+                    {
+                      "id": "Q24235",
+                      "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q29215",
+                      "label": "Bandoneon! (9 Evenings performance on October 18, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29385.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29494",
+                  "label": "4th unnamed device designed for Bandoneon",
+                  "used_in": [
+                    {
+                      "id": "Q24235",
+                      "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q29215",
+                      "label": "Bandoneon! (9 Evenings performance on October 18, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29494.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29506",
+                  "label": "battery driven differential amplifier",
+                  "used_in": [
+                    {
+                      "id": "Q24239",
+                      "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q29213",
+                      "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29506.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29511",
+                  "label": "polyethylene air-inflated structure",
+                  "description": "structure used in \"Physical Things\"",
+                  "used_in": [
+                    {
+                      "id": "Q24631",
+                      "label": "Physical Things (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q29211",
+                      "label": "Physical Things (9 Evenings performance on October 19, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29511.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29522",
+                  "label": "floating platform",
+                  "used_in": [
+                    {
+                      "id": "Q24238",
+                      "label": "Solo (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q24632",
+                      "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+                    },
+                    {
+                      "id": "Q29207",
+                      "label": "Vehicle (9 Evenings performance on October 23, 1966)"
+                    },
+                    {
+                      "id": "Q29210",
+                      "label": "Solo (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29522.jpg"
+                  ]
+                }
+              ],
+              "description": "device or prop created through E.A.T. artist and engineer collaboration for the specific purpose of an E.A.T. event or work",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29605.jpg"
+              ]
+            },
+            {
+              "id": "Q29606",
+              "label": "audio device",
+              "subclasses": [
+                {
+                  "id": "Q24372",
+                  "label": "amplifier",
+                  "description": "electronic circuit or component that increases the level of incoming electrical signal (not necessarily audio)",
+                  "used_in": [
+                    {
+                      "id": "Q19496",
+                      "label": "Oracle"
+                    },
+                    {
+                      "id": "Q24570",
+                      "label": "Grass Field"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24372.jpg"
+                  ]
+                },
+                {
+                  "id": "Q27420",
+                  "label": "audio-visual recording",
+                  "instances": [
+                    {
+                      "id": "Q22767",
+                      "label": "66.V008.01 Open Score, 9 Evenings: Theater & Engineering",
+                      "description": "Document in Audiovisual Collection. Robert Rauschenberg Foundation Archives, New York",
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q22767.jpg"
+                      ]
+                    },
+                    {
+                      "id": "Q22768",
+                      "label": "66.V015.00 9 Evenings: Theatre and Engineering (Behind the scene)",
+                      "description": "Video recording in Audiovisual Collection (Robert Rauschenberg Foundation Archives, New York)",
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q22768.jpg"
+                      ]
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q27420.jpg"
+                  ]
+                },
+                {
+                  "id": "Q28955",
+                  "label": "sound recording",
+                  "instances": [
+                    {
+                      "id": "Q24222",
+                      "label": "Funakukushi",
+                      "description": "1963 musical work by Toshi Ichiyanagi",
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q24222.jpg"
+                      ]
+                    },
+                    {
+                      "id": "Q24717",
+                      "label": "horses hooves sound recording",
+                      "description": "sound developed by E.A.T.",
+                      "used_in": [
+                        {
+                          "id": "Q24408",
+                          "label": "Pepsi Pavilion"
+                        }
+                      ],
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q24717.jpg"
+                      ]
+                    },
+                    {
+                      "id": "Q24718",
+                      "label": "shattering glass sound recording",
+                      "description": "sound developed by E.A.T.",
+                      "used_in": [
+                        {
+                          "id": "Q24408",
+                          "label": "Pepsi Pavilion"
+                        }
+                      ],
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q24718.jpg"
+                      ]
+                    },
+                    {
+                      "id": "Q24719",
+                      "label": "ducks sound recording",
+                      "description": "sound developed by E.A.T.",
+                      "used_in": [
+                        {
+                          "id": "Q24408",
+                          "label": "Pepsi Pavilion"
+                        }
+                      ],
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q24719.jpg"
+                      ]
+                    },
+                    {
+                      "id": "Q24720",
+                      "label": "frogs sound recording",
+                      "description": "sound developed by E.A.T.",
+                      "used_in": [
+                        {
+                          "id": "Q24408",
+                          "label": "Pepsi Pavilion"
+                        }
+                      ],
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q24720.jpg"
+                      ]
+                    },
+                    {
+                      "id": "Q24721",
+                      "label": "cicadas sound recording",
+                      "description": "sound developed by E.A.T.",
+                      "used_in": [
+                        {
+                          "id": "Q24408",
+                          "label": "Pepsi Pavilion"
+                        }
+                      ],
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q24721.jpg"
+                      ]
+                    },
+                    {
+                      "id": "Q24722",
+                      "label": "lions roaring sound recording",
+                      "description": "sound developed by E.A.T.",
+                      "used_in": [
+                        {
+                          "id": "Q24408",
+                          "label": "Pepsi Pavilion"
+                        }
+                      ],
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q24722.jpg"
+                      ]
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q28955.jpg"
+                  ]
+                }
+              ],
+              "instances": [
+                {
+                  "id": "Q23779",
+                  "label": "sound system",
+                  "description": "technology associated with E.A.T.",
+                  "used_in": [
+                    {
+                      "id": "Q19496",
+                      "label": "Oracle"
+                    },
+                    {
+                      "id": "Q19651",
+                      "label": "Variations V"
+                    },
+                    {
+                      "id": "Q23737",
+                      "label": "Festival for Theater and Engineering"
+                    },
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    },
+                    {
+                      "id": "Q24684",
+                      "label": "Island Eye Island Ear"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q23779.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24363",
+                  "label": "speaker",
+                  "used_in": [
+                    {
+                      "id": "Q19159",
+                      "label": "At My Body's House"
+                    },
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    },
+                    {
+                      "id": "Q19496",
+                      "label": "Oracle"
+                    },
+                    {
+                      "id": "Q22693",
+                      "label": "Vehicle"
+                    },
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    },
+                    {
+                      "id": "Q24408",
+                      "label": "Pepsi Pavilion"
+                    },
+                    {
+                      "id": "Q24412",
+                      "label": "Mirror Dome"
+                    },
+                    {
+                      "id": "Q24570",
+                      "label": "Grass Field"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24363.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24365",
+                  "label": "tape recorder",
+                  "used_in": [
+                    {
+                      "id": "Q19651",
+                      "label": "Variations V"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24365.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24366",
+                  "label": "receiver",
+                  "used_in": [
+                    {
+                      "id": "Q19496",
+                      "label": "Oracle"
+                    },
+                    {
+                      "id": "Q19520",
+                      "label": "Physical Things"
+                    },
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    },
+                    {
+                      "id": "Q24220",
+                      "label": "Carriage Discreteness"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24366.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24368",
+                  "label": "vocoder",
+                  "description": "voice encoder",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24368.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24372",
+                  "label": "amplifier",
+                  "description": "electronic circuit or component that increases the level of incoming electrical signal (not necessarily audio)",
+                  "used_in": [
+                    {
+                      "id": "Q19496",
+                      "label": "Oracle"
+                    },
+                    {
+                      "id": "Q24570",
+                      "label": "Grass Field"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24372.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24375",
+                  "label": "contact microphone",
+                  "description": "wearable microphone engineered by Billy Kluver and Harold Hodges for Yvonne Rainer's At My Body's House.",
+                  "used_in": [
+                    {
+                      "id": "Q19159",
+                      "label": "At My Body's House"
+                    },
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    },
+                    {
+                      "id": "Q19644",
+                      "label": "Two Holes of Water"
+                    },
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24375.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24400",
+                  "label": "microphone",
+                  "description": "acoustic-to-electric transducer or sensor that converts sound into an electrical signal",
+                  "used_in": [
+                    {
+                      "id": "Q19601",
+                      "label": "Soundings"
+                    },
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24400.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24706",
+                  "label": "reel-to-reel audio tape recording",
+                  "description": "audio recording using magnetic tape spooled on open reels",
+                  "used_in": [
+                    {
+                      "id": "Q19382",
+                      "label": "Kisses Sweeter Than Wine"
+                    },
+                    {
+                      "id": "Q24704",
+                      "label": "E.A.T. film restoration and presentation project"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24706.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29520",
+                  "label": "frequency generator",
+                  "description": "device that produces electrical signals at adjustable frequencies",
+                  "used_in": [
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    },
+                    {
+                      "id": "Q24632",
+                      "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+                    },
+                    {
+                      "id": "Q29207",
+                      "label": "Vehicle (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29520.jpg"
+                  ]
+                }
+              ],
+              "description": "any electronic tool that records, processes, plays, or transmits sound",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29606.jpg"
+              ]
+            },
+            {
+              "id": "Q29607",
+              "label": "visual projection or display device",
+              "instances": [
+                {
+                  "id": "Q23408",
+                  "label": "computer-generated picture",
+                  "description": "technology developed by E.A.T.",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q23408.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24373",
+                  "label": "projector",
+                  "description": "optical device that projects an image or moving images onto a surface",
+                  "used_in": [
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    },
+                    {
+                      "id": "Q19644",
+                      "label": "Two Holes of Water"
+                    },
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    },
+                    {
+                      "id": "Q24220",
+                      "label": "Carriage Discreteness"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24373.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24403",
+                  "label": "computer generated image",
+                  "description": "technology developed by E.A.T.",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24403.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24467",
+                  "label": "silkscreen",
+                  "description": "printing technique",
+                  "used_in": [
+                    {
+                      "id": "Q19601",
+                      "label": "Soundings"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24467.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24484",
+                  "label": "electro-writer",
+                  "used_in": [
+                    {
+                      "id": "Q19207",
+                      "label": "Children and Communication"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24484.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24487",
+                  "label": "outdoor projection screen for Centre Georges Pompidou",
+                  "description": "technology developed for the Centre Pomidou",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24487.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24489",
+                  "label": "Eidophor projector",
+                  "used_in": [
+                    {
+                      "id": "Q19263",
+                      "label": "Experiments in Art and Technology"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24489.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24535",
+                  "label": "hologram",
+                  "description": "intermediate photograph that contains information for reproducing a three-dimensional image by holography",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24535.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29464",
+                  "label": "screen",
+                  "description": "a surface for displaying images",
+                  "used_in": [
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29464.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29492",
+                  "label": "television projector",
+                  "description": "optical device that projects an image or moving images onto a surface",
+                  "used_in": [
+                    {
+                      "id": "Q24235",
+                      "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q29215",
+                      "label": "Bandoneon! (9 Evenings performance on October 18, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29492.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29493",
+                  "label": "film projector",
+                  "description": "optical device that projects an image or moving images onto a surface",
+                  "used_in": [
+                    {
+                      "id": "Q24241",
+                      "label": "Kisses Sweeter than Wine (9 Evenings performance on October 21, 1966)"
+                    },
+                    {
+                      "id": "Q29212",
+                      "label": "Kisses Sweeter than Wine (9 Evenings performance on October 22, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29493.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29497",
+                  "label": "white screen",
+                  "used_in": [
+                    {
+                      "id": "Q24240",
+                      "label": "Two Holes of Water (9 Evenings performance on October 18, 1966)"
+                    },
+                    {
+                      "id": "Q29209",
+                      "label": "Two Holes of Water (9 Evenings performance on October 19, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29497.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29499",
+                  "label": "screen projector",
+                  "used_in": [
+                    {
+                      "id": "Q21364",
+                      "label": "Open Score (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q29199",
+                      "label": "Open Score (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29499.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29524",
+                  "label": "movie projection",
+                  "description": "film projected onto a screen",
+                  "used_in": [
+                    {
+                      "id": "Q24240",
+                      "label": "Two Holes of Water (9 Evenings performance on October 18, 1966)"
+                    },
+                    {
+                      "id": "Q24631",
+                      "label": "Physical Things (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q29209",
+                      "label": "Two Holes of Water (9 Evenings performance on October 19, 1966)"
+                    },
+                    {
+                      "id": "Q29211",
+                      "label": "Physical Things (9 Evenings performance on October 19, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29524.jpg"
+                  ]
+                }
+              ],
+              "description": "creates images for viewing, with projectors shining light through a lens onto a surface (walls, screens) for large, adaptable images, while displays (monitors, TVs) use technologies like LCD, LED, OLED, and QLED to emit light directly",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29607.jpg"
+              ]
+            },
+            {
+              "id": "Q29614",
+              "label": "imaging device",
+              "subclasses": [
+                {
+                  "id": "Q27420",
+                  "label": "audio-visual recording",
+                  "instances": [
+                    {
+                      "id": "Q22767",
+                      "label": "66.V008.01 Open Score, 9 Evenings: Theater & Engineering",
+                      "description": "Document in Audiovisual Collection. Robert Rauschenberg Foundation Archives, New York",
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q22767.jpg"
+                      ]
+                    },
+                    {
+                      "id": "Q22768",
+                      "label": "66.V015.00 9 Evenings: Theatre and Engineering (Behind the scene)",
+                      "description": "Video recording in Audiovisual Collection (Robert Rauschenberg Foundation Archives, New York)",
+                      "thumbnail": [
+                        "https://semlab.s3.amazonaws.com/images/Q22768.jpg"
+                      ]
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q27420.jpg"
+                  ]
+                }
+              ],
+              "instances": [
+                {
+                  "id": "Q23517",
+                  "label": "infrared television system",
+                  "description": "technology associated with E.A.T.",
+                  "used_in": [
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    },
+                    {
+                      "id": "Q21364",
+                      "label": "Open Score (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q29199",
+                      "label": "Open Score (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q23517.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24349",
+                  "label": "electric light",
+                  "description": "any device that produces light from electricity",
+                  "used_in": [
+                    {
+                      "id": "Q19158",
+                      "label": "Astral Convertible"
+                    },
+                    {
+                      "id": "Q19495",
+                      "label": "Open Score"
+                    },
+                    {
+                      "id": "Q19601",
+                      "label": "Soundings"
+                    },
+                    {
+                      "id": "Q19651",
+                      "label": "Variations V"
+                    },
+                    {
+                      "id": "Q22339",
+                      "label": "Solo"
+                    },
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    },
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    },
+                    {
+                      "id": "Q24408",
+                      "label": "Pepsi Pavilion"
+                    },
+                    {
+                      "id": "Q24411",
+                      "label": "Light Frame"
+                    },
+                    {
+                      "id": "Q24412",
+                      "label": "Mirror Dome"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24349.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24367",
+                  "label": "television",
+                  "description": "telecommunication medium for transmitting and receiving moving images",
+                  "used_in": [
+                    {
+                      "id": "Q19382",
+                      "label": "Kisses Sweeter Than Wine"
+                    },
+                    {
+                      "id": "Q19651",
+                      "label": "Variations V"
+                    },
+                    {
+                      "id": "Q24219",
+                      "label": "Bandoneon!"
+                    },
+                    {
+                      "id": "Q24570",
+                      "label": "Grass Field"
+                    },
+                    {
+                      "id": "Q24704",
+                      "label": "E.A.T. film restoration and presentation project"
+                    }
+                  ],
+                  "ieee_term": [
+                    "TV"
+                  ],
+                  "exact_match": [
+                    "http://vocab.getty.edu/page/aat/300249920",
+                    "http://id.loc.gov/authorities/subjects/sh85133456"
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24367.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24374",
+                  "label": "camera",
+                  "description": "optical device for recording or transmitting photographic images or videos",
+                  "used_in": [
+                    {
+                      "id": "Q19644",
+                      "label": "Two Holes of Water"
+                    },
+                    {
+                      "id": "Q24570",
+                      "label": "Grass Field"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24374.jpg"
+                  ]
+                },
+                {
+                  "id": "Q27409",
+                  "label": "lighting equipment",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q27409.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29525",
+                  "label": "infrared television camera",
+                  "description": "a camera that creates images by capturing infrared radiation",
+                  "used_in": [
+                    {
+                      "id": "Q21364",
+                      "label": "Open Score (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q29199",
+                      "label": "Open Score (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29525.jpg"
+                  ]
+                }
+              ],
+              "description": "instrument using light waves for image viewing",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29614.jpg"
+              ]
+            }
+          ],
+          "instances": [
+            {
+              "id": "Q23407",
+              "label": "Beflix Language",
+              "description": "computer animation language developed by Ken Knowlton at Bell Labs in 1963. The name derives from a combination of Bell Flicks",
+              "used_in": [
+                {
+                  "id": "Q22668",
+                  "label": "Man and His World"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q23407.jpg"
+              ]
+            },
+            {
+              "id": "Q24339",
+              "label": "car",
+              "description": "material used in Robert Whitman’s piece, Two Holes of Water.",
+              "used_in": [
+                {
+                  "id": "Q19644",
+                  "label": "Two Holes of Water"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24339.jpg"
+              ]
+            },
+            {
+              "id": "Q24358",
+              "label": "motor",
+              "used_in": [
+                {
+                  "id": "Q19496",
+                  "label": "Oracle"
+                },
+                {
+                  "id": "Q24213",
+                  "label": "Poor Man's Ballet"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24358.jpg"
+              ]
+            },
+            {
+              "id": "Q24361",
+              "label": "battery",
+              "used_in": [
+                {
+                  "id": "Q19496",
+                  "label": "Oracle"
+                },
+                {
+                  "id": "Q19593",
+                  "label": "Silver Clouds"
+                },
+                {
+                  "id": "Q22687",
+                  "label": "Field Painting"
+                },
+                {
+                  "id": "Q24570",
+                  "label": "Grass Field"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24361.jpg"
+              ]
+            },
+            {
+              "id": "Q24369",
+              "label": "Geiger counter",
+              "description": "instrument used for measuring ionizing radiation",
+              "used_in": [
+                {
+                  "id": "Q23778",
+                  "label": "Variations VII"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24369.jpg"
+              ]
+            },
+            {
+              "id": "Q24376",
+              "label": "typewriter",
+              "description": "machine for writing in characters",
+              "used_in": [
+                {
+                  "id": "Q19496",
+                  "label": "Oracle"
+                },
+                {
+                  "id": "Q19644",
+                  "label": "Two Holes of Water"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24376.jpg"
+              ]
+            },
+            {
+              "id": "Q24450",
+              "label": "machine",
+              "description": "tool containing one or more parts that uses energy to perform an intended action",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24450.jpg"
+              ]
+            },
+            {
+              "id": "Q24569",
+              "label": "electrode",
+              "description": "electrical conductor used to make contact with a nonmetallic part of a circuit (e.g. a semiconductor, an electrolyte or a vacuum)",
+              "used_in": [
+                {
+                  "id": "Q24570",
+                  "label": "Grass Field"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24569.jpg"
+              ]
+            },
+            {
+              "id": "Q29375",
+              "label": "refrigerating apparatus",
+              "description": "technology used in the sculpture “Cool Drainpipe”",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29375.jpg"
+              ]
+            },
+            {
+              "id": "Q29543",
+              "label": "magnetic tape",
+              "description": "medium used to store data in the form of magnetic fields",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29543.jpg"
+              ]
+            },
+            {
+              "id": "Q29550",
+              "label": "propeller",
+              "description": "fan that transmits rotational motion into thrust",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29550.jpg"
+              ]
+            },
+            {
+              "id": "Q29556",
+              "label": "axel",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29556.jpg"
+              ]
+            },
+            {
+              "id": "Q29557",
+              "label": "cowl",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29557.jpg"
+              ]
+            },
+            {
+              "id": "Q29560",
+              "label": "robot",
+              "description": "A machine or virtual agent that performs physical actions, controlled either internally or by an external device.",
+              "used_in": [
+                {
+                  "id": "Q19382",
+                  "label": "Kisses Sweeter Than Wine"
+                },
+                {
+                  "id": "Q24241",
+                  "label": "Kisses Sweeter than Wine (9 Evenings performance on October 21, 1966)"
+                },
+                {
+                  "id": "Q29212",
+                  "label": "Kisses Sweeter than Wine (9 Evenings performance on October 22, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29560.jpg"
+              ]
+            }
+          ],
+          "description": "a thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29599.jpg"
+          ]
+        }
+      ],
+      "instances": [
+        {
+          "id": "Q24045",
+          "label": "Experimental Radio Service",
+          "description": "experiment technology used in performance as mentioned in document A191",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24045.jpg"
+          ]
+        },
+        {
+          "id": "Q29377",
+          "label": "demodulator",
+          "description": "material used in the technology \"Doppler Sonar\"",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29377.jpg"
+          ]
+        },
+        {
+          "id": "Q29378",
+          "label": "ionovac transducer",
+          "description": "material used in the technology \"Doppler Sonar\"",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29378.jpg"
+          ]
+        },
+        {
+          "id": "Q29379",
+          "label": "AVC",
+          "description": "automatic volume control -- microphone setting",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29379.jpg"
+          ]
+        },
+        {
+          "id": "Q29380",
+          "label": "AGC",
+          "description": "automatic gain control -- microphone setting",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29380.jpg"
+          ]
+        },
+        {
+          "id": "Q29383",
+          "label": "cueing system for Open Score",
+          "description": "system of light and sound used to control movement in Robert Rauschenberg's Open Score (1966).\"",
+          "used_in": [
+            {
+              "id": "Q19495",
+              "label": "Open Score"
+            },
+            {
+              "id": "Q21364",
+              "label": "Open Score (9 Evenings performance on October 14, 1966)"
+            },
+            {
+              "id": "Q29199",
+              "label": "Open Score (9 Evenings performance on October 23, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29383.jpg"
+          ]
+        },
+        {
+          "id": "Q29384",
+          "label": "floor cover",
+          "description": "material to cover the floor during Robert Rauschenberg's Open Score (1966).\"",
+          "used_in": [
+            {
+              "id": "Q19495",
+              "label": "Open Score"
+            },
+            {
+              "id": "Q21364",
+              "label": "Open Score (9 Evenings performance on October 14, 1966)"
+            },
+            {
+              "id": "Q29199",
+              "label": "Open Score (9 Evenings performance on October 23, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29384.jpg"
+          ]
+        },
+        {
+          "id": "Q29386",
+          "label": "TV Oscillator",
+          "description": "modified TV sets and projectors used as a visual instrument, converting live audio signals into graphic displays.",
+          "used_in": [
+            {
+              "id": "Q24235",
+              "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+            },
+            {
+              "id": "Q29215",
+              "label": "Bandoneon! (9 Evenings performance on October 18, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29386.jpg"
+          ]
+        },
+        {
+          "id": "Q29562",
+          "label": "photocell",
+          "description": "Light-sensitive gas-filled or vacuum tube",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29562.jpg"
+          ]
+        },
+        {
+          "id": "Q29574",
+          "label": "water jet",
+          "description": "stream of liquid water",
+          "used_in": [
+            {
+              "id": "Q24241",
+              "label": "Kisses Sweeter than Wine (9 Evenings performance on October 21, 1966)"
+            },
+            {
+              "id": "Q29212",
+              "label": "Kisses Sweeter than Wine (9 Evenings performance on October 22, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29574.jpg"
+          ]
+        },
+        {
+          "id": "Q29580",
+          "label": "radio wave",
+          "description": "type of electromagnetic radiation",
+          "used_in": [
+            {
+              "id": "Q21364",
+              "label": "Open Score (9 Evenings performance on October 14, 1966)"
+            },
+            {
+              "id": "Q29199",
+              "label": "Open Score (9 Evenings performance on October 23, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29580.jpg"
+          ]
+        },
+        {
+          "id": "Q29581",
+          "label": "radio equipment",
+          "description": "tools used for recording or transmitting radio waves",
+          "used_in": [
+            {
+              "id": "Q21364",
+              "label": "Open Score (9 Evenings performance on October 14, 1966)"
+            },
+            {
+              "id": "Q29199",
+              "label": "Open Score (9 Evenings performance on October 23, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29581.jpg"
+          ]
+        },
+        {
+          "id": "Q29582",
+          "label": "radio tape",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29582.jpg"
+          ]
+        },
+        {
+          "id": "Q29583",
+          "label": "sound-controlled projectile",
+          "used_in": [
+            {
+              "id": "Q19382",
+              "label": "Kisses Sweeter Than Wine"
+            },
+            {
+              "id": "Q24241",
+              "label": "Kisses Sweeter than Wine (9 Evenings performance on October 21, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29583.jpg"
+          ]
+        },
+        {
+          "id": "Q29585",
+          "label": "photocell",
+          "description": "light-sensitive gas-filled or vacuum tube",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29585.jpg"
+          ]
+        },
+        {
+          "id": "Q29586",
+          "label": "pulse amplifier",
+          "used_in": [
+            {
+              "id": "Q24239",
+              "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+            },
+            {
+              "id": "Q29213",
+              "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29586.jpg"
+          ]
+        },
+        {
+          "id": "Q29587",
+          "label": "electrowriter",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29587.jpg"
+          ]
+        },
+        {
+          "id": "Q29588",
+          "label": "light wave",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29588.jpg"
+          ]
+        },
+        {
+          "id": "Q29589",
+          "label": "sound detector",
+          "used_in": [
+            {
+              "id": "Q24631",
+              "label": "Physical Things (9 Evenings performance on October 13, 1966)"
+            },
+            {
+              "id": "Q29211",
+              "label": "Physical Things (9 Evenings performance on October 19, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29589.jpg"
+          ]
+        },
+        {
+          "id": "Q29590",
+          "label": "reflector",
+          "used_in": [
+            {
+              "id": "Q24240",
+              "label": "Two Holes of Water (9 Evenings performance on October 18, 1966)"
+            },
+            {
+              "id": "Q29209",
+              "label": "Two Holes of Water (9 Evenings performance on October 19, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29590.jpg"
+          ]
+        },
+        {
+          "id": "Q29591",
+          "label": "doppler effect",
+          "description": "frequency change of a wave for observer relative to its source",
+          "used_in": [
+            {
+              "id": "Q24235",
+              "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+            },
+            {
+              "id": "Q29215",
+              "label": "Bandoneon! (9 Evenings performance on October 18, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29591.jpg"
+          ]
+        },
+        {
+          "id": "Q29689",
+          "label": "IBM 704",
+          "description": "computer",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29689.jpg"
+          ]
+        },
+        {
+          "id": "Q29690",
+          "label": "Apple II",
+          "description": "first computer model in the Apple II series",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29690.jpg"
+          ]
+        },
+        {
+          "id": "Q29691",
+          "label": "Music Mouse",
+          "description": "Musical composition software",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29691.jpg"
+          ]
+        },
+        {
+          "id": "Q29692",
+          "label": "FORTRAN IV",
+          "description": "1961 edition of the Fortran programming language standard",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29692.jpg"
+          ]
+        },
+        {
+          "id": "Q29693",
+          "label": "Voyager 1",
+          "description": "space probe launched by NASA to study the outer Solar System, furthest spacecraft from Earth",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29693.jpg"
+          ]
+        },
+        {
+          "id": "Q29694",
+          "label": "Rutt/Etra Video Synthesizer",
+          "description": "video analogue computer",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29694.jpg"
+          ]
+        },
+        {
+          "id": "Q29695",
+          "label": "Pretty Good Privacy",
+          "description": "computer program for data encryption, primarily in email (PGP)",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29695.jpg"
+          ]
+        },
+        {
+          "id": "Q29696",
+          "label": "Perceptual audio coder",
+          "description": "lossy audio compression algorithm",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29696.jpg"
+          ]
+        },
+        {
+          "id": "Q29713",
+          "label": "touch-tone telephone",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29713.jpg"
+          ]
+        },
+        {
+          "id": "Q29719",
+          "label": "synchronous sound motion picture system",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29719.jpg"
+          ]
+        },
+        {
+          "id": "Q29720",
+          "label": "electrical relay digital computer",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29720.jpg"
+          ]
+        },
+        {
+          "id": "Q29723",
+          "label": "Sputnik 1",
+          "description": "first artificial Earth satellite",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29723.jpg"
+          ]
+        },
+        {
+          "id": "Q29733",
+          "label": "Coordinome",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29733.jpg"
+          ]
+        },
+        {
+          "id": "Q29735",
+          "label": "Mac",
+          "description": "family of personal computers designed, manufactured, and sold by Apple Inc.",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29735.jpg"
+          ]
+        },
+        {
+          "id": "Q29738",
+          "label": "backward wave magnetron amplifiers",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29738.jpg"
+          ]
+        }
+      ],
+      "description": "making, modification, usage, and knowledge of tools, machines, techniques, crafts, systems, and methods of organization in order to solve a problem, improve a preexisting solution to a problem, or achieve a goal.",
+      "thumbnail": [
+        "https://semlab.s3.amazonaws.com/images/Q19076.jpg"
+      ]
+    },
+    {
+      "id": "Q29600",
+      "label": "theatrical prop",
+      "subclasses": [
+        {
+          "id": "Q24355",
+          "label": "home appliance",
+          "instances": [
+            {
+              "id": "Q24711",
+              "label": "vacuum",
+              "description": "device that sucks up dust and dirt from floors",
+              "used_in": [
+                {
+                  "id": "Q24708",
+                  "label": "Fakir in 3/4 Time"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24711.jpg"
+              ]
+            },
+            {
+              "id": "Q29512",
+              "label": "blender",
+              "description": "type of home appliance",
+              "used_in": [
+                {
+                  "id": "Q24338",
+                  "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                },
+                {
+                  "id": "Q29208",
+                  "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29512.jpg"
+              ]
+            },
+            {
+              "id": "Q29513",
+              "label": "juicer",
+              "description": "equipment to extract fruits and vegetables juices",
+              "used_in": [
+                {
+                  "id": "Q24338",
+                  "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                },
+                {
+                  "id": "Q29208",
+                  "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29513.jpg"
+              ]
+            },
+            {
+              "id": "Q29514",
+              "label": "toaster",
+              "description": "small oven for cooking bread",
+              "used_in": [
+                {
+                  "id": "Q24338",
+                  "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                },
+                {
+                  "id": "Q29208",
+                  "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29514.jpg"
+              ]
+            },
+            {
+              "id": "Q29516",
+              "label": "fan",
+              "description": "complete appliance containing electric fan and stand or mount",
+              "used_in": [
+                {
+                  "id": "Q24338",
+                  "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                },
+                {
+                  "id": "Q29208",
+                  "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29516.jpg"
+              ]
+            },
+            {
+              "id": "Q29542",
+              "label": "vacuum cleaner motor",
+              "description": "material used in the ground effect machine created for 9 Evenings",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29542.jpg"
+              ]
+            },
+            {
+              "id": "Q29573",
+              "label": "refrigerator",
+              "description": "household appliance that cools and preserves food by removing heat from its interior",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29573.jpg"
+              ]
+            }
+          ],
+          "description": "machine for household uses; various household appliances such as toaster, blender, etc used in artwork created for 9 Evenings.",
+          "used_in": [
+            {
+              "id": "Q23778",
+              "label": "Variations VII"
+            },
+            {
+              "id": "Q24338",
+              "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+            },
+            {
+              "id": "Q29208",
+              "label": "Variations VII (9 Evenings performance on October 16, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24355.jpg"
+          ]
+        }
+      ],
+      "instances": [
+        {
+          "id": "Q20630",
+          "label": "piano",
+          "description": "musical instrument",
+          "used_in": [
+            {
+              "id": "Q19315",
+              "label": "Homage to New York (sculpture)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q20630.jpg"
+          ]
+        },
+        {
+          "id": "Q23228",
+          "label": "artificial mud",
+          "description": "synthetic material that mimics the mixture of water and soil, silt, or clay",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q23228.jpg"
+          ]
+        },
+        {
+          "id": "Q23230",
+          "label": "oil well",
+          "description": "well drilled in the ground or the seabed to recover hydrocarbons",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q23230.jpg"
+          ]
+        },
+        {
+          "id": "Q24339",
+          "label": "car",
+          "description": "material used in Robert Whitman’s piece, Two Holes of Water.",
+          "used_in": [
+            {
+              "id": "Q19644",
+              "label": "Two Holes of Water"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24339.jpg"
+          ]
+        },
+        {
+          "id": "Q24341",
+          "label": "Lyndon B. Johnson puppet",
+          "description": "material used in Öyvind Fahlström’s piece, Kisses Sweeter than Wine",
+          "used_in": [
+            {
+              "id": "Q24241",
+              "label": "Kisses Sweeter than Wine (9 Evenings performance on October 21, 1966)"
+            },
+            {
+              "id": "Q29212",
+              "label": "Kisses Sweeter than Wine (9 Evenings performance on October 22, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24341.jpg"
+          ]
+        },
+        {
+          "id": "Q24342",
+          "label": "Chinese sparrow",
+          "description": "material used in Öyvind Fahlström’s piece, Kisses Sweeter than Wine.",
+          "used_in": [
+            {
+              "id": "Q19382",
+              "label": "Kisses Sweeter Than Wine"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24342.jpg"
+          ]
+        },
+        {
+          "id": "Q24350",
+          "label": "chair",
+          "description": "piece of furniture for sitting on",
+          "used_in": [
+            {
+              "id": "Q19601",
+              "label": "Soundings"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24350.jpg"
+          ]
+        },
+        {
+          "id": "Q24376",
+          "label": "typewriter",
+          "description": "machine for writing in characters",
+          "used_in": [
+            {
+              "id": "Q19496",
+              "label": "Oracle"
+            },
+            {
+              "id": "Q19644",
+              "label": "Two Holes of Water"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24376.jpg"
+          ]
+        },
+        {
+          "id": "Q24382",
+          "label": "found object",
+          "description": "objects, natural or human-made, unaltered or only slightly altered, presented by an artist as works of art in themselves or used as parts of works of art.",
+          "used_in": [
+            {
+              "id": "Q19496",
+              "label": "Oracle"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24382.jpg"
+          ]
+        },
+        {
+          "id": "Q24687",
+          "label": "kite",
+          "description": "tethered aircraft often tied with a rope or string",
+          "used_in": [
+            {
+              "id": "Q24686",
+              "label": "Jacqueline Matisse Monnier"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24687.jpg"
+          ]
+        },
+        {
+          "id": "Q24703",
+          "label": "dummy",
+          "description": "substitute object lacking normal functionality of objects of its class, used for various purposes",
+          "used_in": [
+            {
+              "id": "Q24700",
+              "label": "Friends and Neighbors"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24703.jpg"
+          ]
+        },
+        {
+          "id": "Q25732",
+          "label": "pail filled with dry ice",
+          "description": "prop used in Spring Training",
+          "used_in": [
+            {
+              "id": "Q19602",
+              "label": "Spring Training"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q25732.jpg"
+          ]
+        },
+        {
+          "id": "Q25744",
+          "label": "Noguchi mask",
+          "description": "mask worn by Merce Cunningham during a performance",
+          "used_in": [
+            {
+              "id": "Q25746",
+              "label": "Martha Graham Dance Company"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q25744.jpg"
+          ]
+        },
+        {
+          "id": "Q29381",
+          "label": "net",
+          "description": "material used in E.A.T. performances",
+          "used_in": [
+            {
+              "id": "Q19495",
+              "label": "Open Score"
+            },
+            {
+              "id": "Q21364",
+              "label": "Open Score (9 Evenings performance on October 14, 1966)"
+            },
+            {
+              "id": "Q29199",
+              "label": "Open Score (9 Evenings performance on October 23, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29381.jpg"
+          ]
+        },
+        {
+          "id": "Q29500",
+          "label": "cloth (sack)",
+          "used_in": [
+            {
+              "id": "Q21364",
+              "label": "Open Score (9 Evenings performance on October 14, 1966)"
+            },
+            {
+              "id": "Q29199",
+              "label": "Open Score (9 Evenings performance on October 23, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29500.jpg"
+          ]
+        },
+        {
+          "id": "Q29508",
+          "label": "plastic plate",
+          "used_in": [
+            {
+              "id": "Q24239",
+              "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+            },
+            {
+              "id": "Q29213",
+              "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29508.jpg"
+          ]
+        },
+        {
+          "id": "Q29521",
+          "label": "bucket",
+          "description": "tube-shaped container",
+          "used_in": [
+            {
+              "id": "Q24632",
+              "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+            },
+            {
+              "id": "Q29207",
+              "label": "Vehicle (9 Evenings performance on October 23, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29521.jpg"
+          ]
+        },
+        {
+          "id": "Q29545",
+          "label": "tire",
+          "description": "ring-shaped covering that fits around a wheel's rim",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29545.jpg"
+          ]
+        }
+      ],
+      "description": "movable physical object used on a motion picture, television, or stage set that are not costume or scenery",
+      "thumbnail": [
+        "https://semlab.s3.amazonaws.com/images/Q29600.jpg"
+      ]
+    },
+    {
+      "id": "Q29601",
+      "label": "theatrical scenery component",
+      "instances": [
+        {
+          "id": "Q24487",
+          "label": "outdoor projection screen for Centre Georges Pompidou",
+          "description": "technology developed for the Centre Pomidou",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24487.jpg"
+          ]
+        },
+        {
+          "id": "Q24667",
+          "label": "dome",
+          "description": "architectural element that resembles the hollow upper half of a sphere",
+          "used_in": [
+            {
+              "id": "Q24408",
+              "label": "Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24667.jpg"
+          ]
+        },
+        {
+          "id": "Q24668",
+          "label": "cage",
+          "description": "enclosure used to confine, contain or protect something or someone",
+          "used_in": [
+            {
+              "id": "Q24408",
+              "label": "Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24668.jpg"
+          ]
+        },
+        {
+          "id": "Q24670",
+          "label": "slate",
+          "description": "fine-grained, foliated, homogeneous, low-grade metamorphic rock",
+          "used_in": [
+            {
+              "id": "Q24408",
+              "label": "Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24670.jpg"
+          ]
+        },
+        {
+          "id": "Q24671",
+          "label": "tile",
+          "description": "manufactured piece of hard-wearing material",
+          "used_in": [
+            {
+              "id": "Q24408",
+              "label": "Pepsi Pavilion"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24671.jpg"
+          ]
+        },
+        {
+          "id": "Q24676",
+          "label": "pole",
+          "description": "oblong object, placed vertically (or somewhat obliquely), the width being approximately the same over the entire length",
+          "used_in": [
+            {
+              "id": "Q24411",
+              "label": "Light Frame"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q24676.jpg"
+          ]
+        },
+        {
+          "id": "Q29459",
+          "label": "slat",
+          "description": "a thin, narrow piece of wood, plastic, or metal",
+          "used_in": [
+            {
+              "id": "Q24236",
+              "label": "Carriage Discreteness (9 Evenings performance on October 15, 1966)"
+            },
+            {
+              "id": "Q29214",
+              "label": "Carriage Discreteness (9 Evenings performance on October 21, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29459.jpg"
+          ]
+        },
+        {
+          "id": "Q29460",
+          "label": "slab",
+          "description": "a large, thick, flat piece of stone, concrete, or wood, typically rectangular.",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29460.jpg"
+          ]
+        },
+        {
+          "id": "Q29461",
+          "label": "cube",
+          "description": "a geometric solid with six square faces",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29461.jpg"
+          ]
+        },
+        {
+          "id": "Q29462",
+          "label": "plank",
+          "description": "material that is flat, elongated, and rectangular with parallel faces that are higher and longer than wide",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29462.jpg"
+          ]
+        },
+        {
+          "id": "Q29465",
+          "label": "swing",
+          "description": "a seat or platform, suspended from chains, ropes, or bars",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29465.jpg"
+          ]
+        },
+        {
+          "id": "Q29497",
+          "label": "white screen",
+          "used_in": [
+            {
+              "id": "Q24240",
+              "label": "Two Holes of Water (9 Evenings performance on October 18, 1966)"
+            },
+            {
+              "id": "Q29209",
+              "label": "Two Holes of Water (9 Evenings performance on October 19, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29497.jpg"
+          ]
+        },
+        {
+          "id": "Q29509",
+          "label": "wooden boxes/platform",
+          "used_in": [
+            {
+              "id": "Q24239",
+              "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+            },
+            {
+              "id": "Q29213",
+              "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29509.jpg"
+          ]
+        },
+        {
+          "id": "Q29522",
+          "label": "floating platform",
+          "used_in": [
+            {
+              "id": "Q24238",
+              "label": "Solo (9 Evenings performance on October 13, 1966)"
+            },
+            {
+              "id": "Q24632",
+              "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+            },
+            {
+              "id": "Q29207",
+              "label": "Vehicle (9 Evenings performance on October 23, 1966)"
+            },
+            {
+              "id": "Q29210",
+              "label": "Solo (9 Evenings performance on October 23, 1966)"
+            }
+          ],
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29522.jpg"
+          ]
+        },
+        {
+          "id": "Q29544",
+          "label": "sand-blasted Plexiglass panel",
+          "thumbnail": [
+            "https://semlab.s3.amazonaws.com/images/Q29544.jpg"
+          ]
+        }
+      ],
+      "description": "the structural and physical elements (backdrops, platforms, furniture, etc.) that create the visual environment for a performance or installation",
+      "thumbnail": [
+        "https://semlab.s3.amazonaws.com/images/Q29601.jpg"
+      ]
+    }
+  ],
+  "metadata": {
+    "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
+    "seed_items": 24,
+    "total_items_discovered": 586,
+    "subclass_relationships": 100,
+    "instance_relationships": 553,
+    "manually_excluded": [
+      {
+        "id": "Q19053",
+        "label": "place"
+      },
+      {
+        "id": "Q19048",
+        "label": "agent"
+      },
+      {
+        "id": "Q19071",
+        "label": "event"
+      },
+      {
+        "id": "Q26150",
+        "label": "work"
+      },
+      {
+        "id": "Q28932",
+        "label": "artwork (object)"
+      },
+      {
+        "id": "Q19069",
+        "label": "document"
+      }
+    ],
+    "properties_used": {
+      "P1": "instance of",
+      "P55": "subclass of",
+      "P199": "superclass of"
+    }
+  }
+}

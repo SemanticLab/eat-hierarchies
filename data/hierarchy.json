@@ -1,0 +1,1536 @@
+{
+  "hierarchy": [
+    {
+      "id": "Q23229",
+      "label": "material",
+      "subclasses": [
+        {
+          "id": "Q24230",
+          "label": "wood product",
+          "instances": [
+            {
+              "id": "Q29462",
+              "label": "plank"
+            }
+          ]
+        },
+        {
+          "id": "Q26763",
+          "label": "film (material)",
+          "subclasses": [
+            {
+              "id": "Q24453",
+              "label": "VHS"
+            },
+            {
+              "id": "Q24454",
+              "label": "1-inch videotape"
+            }
+          ]
+        },
+        {
+          "id": "Q26764",
+          "label": "sculpture (material)"
+        },
+        {
+          "id": "Q26765",
+          "label": "photograph (material)",
+          "subclasses": [
+            {
+              "id": "Q24473",
+              "label": "gelatin silver print"
+            },
+            {
+              "id": "Q24474",
+              "label": "slide"
+            },
+            {
+              "id": "Q24475",
+              "label": "polaroid"
+            }
+          ]
+        },
+        {
+          "id": "Q27024",
+          "label": "video recordings (material)",
+          "instances": [
+            {
+              "id": "Q24453",
+              "label": "VHS"
+            },
+            {
+              "id": "Q24454",
+              "label": "1-inch videotape"
+            }
+          ]
+        },
+        {
+          "id": "Q29608",
+          "label": "wood product",
+          "instances": [
+            {
+              "id": "Q23890",
+              "label": "pine"
+            },
+            {
+              "id": "Q24232",
+              "label": "masonite"
+            }
+          ]
+        },
+        {
+          "id": "Q29609",
+          "label": "plastic/foam material",
+          "instances": [
+            {
+              "id": "Q23409",
+              "label": "Expandable Polystyrene"
+            },
+            {
+              "id": "Q23415",
+              "label": "Plexiglas"
+            },
+            {
+              "id": "Q23417",
+              "label": "Scotchpak™"
+            },
+            {
+              "id": "Q24344",
+              "label": "Styrofoam"
+            },
+            {
+              "id": "Q24413",
+              "label": "Mylar"
+            },
+            {
+              "id": "Q24557",
+              "label": "rubber"
+            },
+            {
+              "id": "Q24568",
+              "label": "Lucite"
+            },
+            {
+              "id": "Q24669",
+              "label": "AstroTurf"
+            },
+            {
+              "id": "Q24672",
+              "label": "asphalt"
+            },
+            {
+              "id": "Q25790",
+              "label": "polystyrene"
+            },
+            {
+              "id": "Q29463",
+              "label": "foam rubber"
+            },
+            {
+              "id": "Q29544",
+              "label": "sand-blasted Plexiglass panel"
+            }
+          ]
+        },
+        {
+          "id": "Q29610",
+          "label": "textile material",
+          "instances": [
+            {
+              "id": "Q24404",
+              "label": "Hexcel materials"
+            },
+            {
+              "id": "Q24674",
+              "label": "flag"
+            },
+            {
+              "id": "Q24687",
+              "label": "kite"
+            },
+            {
+              "id": "Q24702",
+              "label": "clothing"
+            },
+            {
+              "id": "Q24710",
+              "label": "ribbon"
+            },
+            {
+              "id": "Q29500",
+              "label": "cloth (sack)"
+            },
+            {
+              "id": "Q29501",
+              "label": "cloth"
+            },
+            {
+              "id": "Q29559",
+              "label": "linen canvas"
+            }
+          ]
+        }
+      ],
+      "instances": [
+        {
+          "id": "Q23228",
+          "label": "artificial mud"
+        },
+        {
+          "id": "Q24229",
+          "label": "neon"
+        },
+        {
+          "id": "Q24230",
+          "label": "wood product",
+          "instances": [
+            {
+              "id": "Q29462",
+              "label": "plank"
+            }
+          ]
+        },
+        {
+          "id": "Q24231",
+          "label": "metal",
+          "instances": [
+            {
+              "id": "Q24561",
+              "label": "paperclip"
+            },
+            {
+              "id": "Q29555",
+              "label": "steel"
+            }
+          ]
+        },
+        {
+          "id": "Q24233",
+          "label": "water"
+        },
+        {
+          "id": "Q24346",
+          "label": "Jello"
+        },
+        {
+          "id": "Q24356",
+          "label": "mirror"
+        },
+        {
+          "id": "Q24357",
+          "label": "bicycle wheels"
+        },
+        {
+          "id": "Q24401",
+          "label": "paper"
+        },
+        {
+          "id": "Q24404",
+          "label": "Hexcel materials"
+        },
+        {
+          "id": "Q24415",
+          "label": "glass"
+        },
+        {
+          "id": "Q24450",
+          "label": "machine"
+        },
+        {
+          "id": "Q24453",
+          "label": "VHS"
+        },
+        {
+          "id": "Q24454",
+          "label": "1-inch videotape"
+        },
+        {
+          "id": "Q24467",
+          "label": "silkscreen"
+        },
+        {
+          "id": "Q24664",
+          "label": "cloud"
+        },
+        {
+          "id": "Q24670",
+          "label": "slate"
+        },
+        {
+          "id": "Q24671",
+          "label": "tile"
+        },
+        {
+          "id": "Q24674",
+          "label": "flag"
+        },
+        {
+          "id": "Q24676",
+          "label": "pole"
+        },
+        {
+          "id": "Q24687",
+          "label": "kite"
+        },
+        {
+          "id": "Q24696",
+          "label": "stone"
+        },
+        {
+          "id": "Q24702",
+          "label": "clothing"
+        },
+        {
+          "id": "Q24710",
+          "label": "ribbon"
+        },
+        {
+          "id": "Q25965",
+          "label": "cardboard"
+        },
+        {
+          "id": "Q25966",
+          "label": "urethane"
+        },
+        {
+          "id": "Q29381",
+          "label": "net"
+        },
+        {
+          "id": "Q29496",
+          "label": "white paper"
+        },
+        {
+          "id": "Q29527",
+          "label": "carbon black"
+        },
+        {
+          "id": "Q29546",
+          "label": "truck door"
+        },
+        {
+          "id": "Q29547",
+          "label": "window frame"
+        },
+        {
+          "id": "Q29548",
+          "label": "bathtub"
+        },
+        {
+          "id": "Q29549",
+          "label": "air vent"
+        },
+        {
+          "id": "Q29551",
+          "label": "giant rubber band"
+        },
+        {
+          "id": "Q29552",
+          "label": "hot glue"
+        },
+        {
+          "id": "Q29553",
+          "label": "screw"
+        },
+        {
+          "id": "Q29554",
+          "label": "bolt"
+        },
+        {
+          "id": "Q29558",
+          "label": "synthetic paint"
+        },
+        {
+          "id": "Q29561",
+          "label": "phosphor"
+        },
+        {
+          "id": "Q29729",
+          "label": "polyurethane"
+        },
+        {
+          "id": "Q29740",
+          "label": "ultrasonic beams"
+        }
+      ]
+    },
+    {
+      "id": "Q29602",
+      "label": "phenomenon",
+      "subclasses": [
+        {
+          "id": "Q29611",
+          "label": "auditory phenomenon",
+          "instances": [
+            {
+              "id": "Q24402",
+              "label": "computer generated sound"
+            },
+            {
+              "id": "Q24565",
+              "label": "horn"
+            },
+            {
+              "id": "Q24717",
+              "label": "horses hooves sound recording"
+            },
+            {
+              "id": "Q24718",
+              "label": "shattering glass sound recording"
+            },
+            {
+              "id": "Q24719",
+              "label": "ducks sound recording"
+            },
+            {
+              "id": "Q24720",
+              "label": "frogs sound recording"
+            },
+            {
+              "id": "Q24721",
+              "label": "cicadas sound recording"
+            },
+            {
+              "id": "Q24722",
+              "label": "lions roaring sound recording"
+            },
+            {
+              "id": "Q29457",
+              "label": "ultrasonic sound beam"
+            },
+            {
+              "id": "Q29495",
+              "label": "reverberation"
+            },
+            {
+              "id": "Q29517",
+              "label": "radio band"
+            },
+            {
+              "id": "Q29518",
+              "label": "television band"
+            },
+            {
+              "id": "Q29519",
+              "label": "communication band"
+            },
+            {
+              "id": "Q29523",
+              "label": "sonar frequency"
+            }
+          ]
+        },
+        {
+          "id": "Q29612",
+          "label": "light phenomenon",
+          "instances": [
+            {
+              "id": "Q23410",
+              "label": "helium-neon gas laser"
+            },
+            {
+              "id": "Q24349",
+              "label": "electric light"
+            },
+            {
+              "id": "Q24398",
+              "label": "laser"
+            },
+            {
+              "id": "Q24399",
+              "label": "holography"
+            },
+            {
+              "id": "Q24479",
+              "label": "color beam"
+            },
+            {
+              "id": "Q24490",
+              "label": "fog"
+            },
+            {
+              "id": "Q24491",
+              "label": "convection currents"
+            },
+            {
+              "id": "Q24535",
+              "label": "hologram"
+            },
+            {
+              "id": "Q24555",
+              "label": "color theory"
+            },
+            {
+              "id": "Q24664",
+              "label": "cloud"
+            },
+            {
+              "id": "Q29498",
+              "label": "infrared light"
+            },
+            {
+              "id": "Q29524",
+              "label": "movie projection"
+            }
+          ]
+        },
+        {
+          "id": "Q29613",
+          "label": "biological signal or activity",
+          "instances": [
+            {
+              "id": "Q29502",
+              "label": "\"body sounds\""
+            },
+            {
+              "id": "Q29503",
+              "label": "brain wave"
+            },
+            {
+              "id": "Q29504",
+              "label": "muscle activity"
+            },
+            {
+              "id": "Q29505",
+              "label": "eye movement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Q19076",
+      "label": "technology",
+      "subclasses": [
+        {
+          "id": "Q29599",
+          "label": "device",
+          "subclasses": [
+            {
+              "id": "Q20619",
+              "label": "musical instrument",
+              "instances": [
+                {
+                  "id": "Q20620",
+                  "label": "trumpet"
+                },
+                {
+                  "id": "Q20621",
+                  "label": "accordion"
+                },
+                {
+                  "id": "Q20622",
+                  "label": "vocals"
+                },
+                {
+                  "id": "Q20623",
+                  "label": "saxophone"
+                },
+                {
+                  "id": "Q20624",
+                  "label": "trombone"
+                },
+                {
+                  "id": "Q20625",
+                  "label": "tenor saxophone"
+                },
+                {
+                  "id": "Q20626",
+                  "label": "bass"
+                },
+                {
+                  "id": "Q20627",
+                  "label": "drums"
+                },
+                {
+                  "id": "Q20628",
+                  "label": "guitar"
+                },
+                {
+                  "id": "Q20629",
+                  "label": "alto saxophone"
+                },
+                {
+                  "id": "Q20630",
+                  "label": "piano"
+                },
+                {
+                  "id": "Q20631",
+                  "label": "baritone saxophone"
+                },
+                {
+                  "id": "Q20689",
+                  "label": "violin"
+                },
+                {
+                  "id": "Q20720",
+                  "label": "flute"
+                },
+                {
+                  "id": "Q20721",
+                  "label": "clarinet"
+                },
+                {
+                  "id": "Q21134",
+                  "label": "mellophone"
+                },
+                {
+                  "id": "Q21182",
+                  "label": "organ"
+                },
+                {
+                  "id": "Q27057",
+                  "label": "cornet"
+                },
+                {
+                  "id": "Q27058",
+                  "label": "banjo"
+                },
+                {
+                  "id": "Q28942",
+                  "label": "bandoneon"
+                }
+              ]
+            },
+            {
+              "id": "Q24355",
+              "label": "home appliance",
+              "instances": [
+                {
+                  "id": "Q24711",
+                  "label": "vacuum"
+                },
+                {
+                  "id": "Q29512",
+                  "label": "blender"
+                },
+                {
+                  "id": "Q29513",
+                  "label": "juicer"
+                },
+                {
+                  "id": "Q29514",
+                  "label": "toaster"
+                },
+                {
+                  "id": "Q29516",
+                  "label": "fan"
+                },
+                {
+                  "id": "Q29542",
+                  "label": "vacuum cleaner motor"
+                },
+                {
+                  "id": "Q29573",
+                  "label": "refrigerator"
+                }
+              ]
+            },
+            {
+              "id": "Q29584",
+              "label": "sensor",
+              "instances": [
+                {
+                  "id": "Q24488",
+                  "label": "corner reflector"
+                },
+                {
+                  "id": "Q29540",
+                  "label": "photocell switching circuit"
+                },
+                {
+                  "id": "Q29541",
+                  "label": "photocell"
+                }
+              ]
+            },
+            {
+              "id": "Q29603",
+              "label": "communication device",
+              "instances": [
+                {
+                  "id": "Q24364",
+                  "label": "radio"
+                },
+                {
+                  "id": "Q24457",
+                  "label": "communications satellite"
+                },
+                {
+                  "id": "Q24482",
+                  "label": "telephone line"
+                },
+                {
+                  "id": "Q24483",
+                  "label": "facsimile machine"
+                },
+                {
+                  "id": "Q24485",
+                  "label": "telephone"
+                },
+                {
+                  "id": "Q24486",
+                  "label": "parabolic antenna"
+                },
+                {
+                  "id": "Q24497",
+                  "label": "telex machine"
+                },
+                {
+                  "id": "Q24559",
+                  "label": "antenna"
+                },
+                {
+                  "id": "Q24673",
+                  "label": "handset"
+                },
+                {
+                  "id": "Q25932",
+                  "label": "telex"
+                },
+                {
+                  "id": "Q29426",
+                  "label": "two transistor radio"
+                },
+                {
+                  "id": "Q29466",
+                  "label": "walkie talkie"
+                },
+                {
+                  "id": "Q29526",
+                  "label": "FM transmitter"
+                },
+                {
+                  "id": "Q29569",
+                  "label": "patch panel"
+                }
+              ]
+            },
+            {
+              "id": "Q29604",
+              "label": "signal processing component",
+              "instances": [
+                {
+                  "id": "Q23353",
+                  "label": "speech synthesizer"
+                },
+                {
+                  "id": "Q24337",
+                  "label": "timing device"
+                },
+                {
+                  "id": "Q24359",
+                  "label": "relay switch"
+                },
+                {
+                  "id": "Q24360",
+                  "label": "circuit"
+                },
+                {
+                  "id": "Q24362",
+                  "label": "radio transmitter"
+                },
+                {
+                  "id": "Q24370",
+                  "label": "oscillator"
+                },
+                {
+                  "id": "Q24371",
+                  "label": "pulse generator"
+                },
+                {
+                  "id": "Q24480",
+                  "label": "nozzle system"
+                },
+                {
+                  "id": "Q24558",
+                  "label": "control circuit"
+                },
+                {
+                  "id": "Q24564",
+                  "label": "transducer"
+                },
+                {
+                  "id": "Q29376",
+                  "label": "transmitter"
+                },
+                {
+                  "id": "Q29467",
+                  "label": "40-channel filter circuit"
+                },
+                {
+                  "id": "Q29490",
+                  "label": "processing circuit"
+                },
+                {
+                  "id": "Q29491",
+                  "label": "relay"
+                },
+                {
+                  "id": "Q29507",
+                  "label": "voltage controlled oscillator"
+                },
+                {
+                  "id": "Q29510",
+                  "label": "FM signal"
+                },
+                {
+                  "id": "Q29563",
+                  "label": "radio loop system"
+                },
+                {
+                  "id": "Q29564",
+                  "label": "encoder"
+                },
+                {
+                  "id": "Q29565",
+                  "label": "decoder"
+                },
+                {
+                  "id": "Q29566",
+                  "label": "power relay"
+                },
+                {
+                  "id": "Q29567",
+                  "label": "FM receiver"
+                },
+                {
+                  "id": "Q29568",
+                  "label": "silicon-controlled rectifier circuitry"
+                },
+                {
+                  "id": "Q29570",
+                  "label": "tonal control circuit"
+                },
+                {
+                  "id": "Q29571",
+                  "label": "drum switch"
+                },
+                {
+                  "id": "Q29572",
+                  "label": "preamplifier"
+                },
+                {
+                  "id": "Q29592",
+                  "label": "flying spot scanner"
+                }
+              ]
+            },
+            {
+              "id": "Q29605",
+              "label": "uniquely engineered device",
+              "instances": [
+                {
+                  "id": "Q19614",
+                  "label": "TEEM"
+                },
+                {
+                  "id": "Q22384",
+                  "label": "Proportional Control System"
+                },
+                {
+                  "id": "Q22667",
+                  "label": "Feedback Device"
+                },
+                {
+                  "id": "Q22677",
+                  "label": "ground effect machine"
+                },
+                {
+                  "id": "Q22679",
+                  "label": "sound-wired tennis racket"
+                },
+                {
+                  "id": "Q22680",
+                  "label": "Doppler Sonar system for Vehicle"
+                },
+                {
+                  "id": "Q24377",
+                  "label": "engineered pillow"
+                },
+                {
+                  "id": "Q24378",
+                  "label": "remote controlled mylar missile"
+                },
+                {
+                  "id": "Q24383",
+                  "label": "engineered snowflakes"
+                },
+                {
+                  "id": "Q24492",
+                  "label": "gas-driven heat blower"
+                },
+                {
+                  "id": "Q24493",
+                  "label": "DC power station"
+                },
+                {
+                  "id": "Q24571",
+                  "label": "radio-controlled cart"
+                },
+                {
+                  "id": "Q25730",
+                  "label": "Lucite shoe"
+                },
+                {
+                  "id": "Q25741",
+                  "label": "locomotized ballet shoes"
+                },
+                {
+                  "id": "Q29385",
+                  "label": "Vochrome"
+                },
+                {
+                  "id": "Q29494",
+                  "label": "4th unnamed device designed for Bandoneon"
+                },
+                {
+                  "id": "Q29506",
+                  "label": "battery driven differential amplifier"
+                },
+                {
+                  "id": "Q29511",
+                  "label": "polyethylene air-inflated structure"
+                },
+                {
+                  "id": "Q29522",
+                  "label": "floating platform"
+                }
+              ]
+            },
+            {
+              "id": "Q29606",
+              "label": "audio device",
+              "subclasses": [
+                {
+                  "id": "Q24372",
+                  "label": "amplifier"
+                },
+                {
+                  "id": "Q27420",
+                  "label": "audio-visual recording",
+                  "instances": [
+                    {
+                      "id": "Q22767",
+                      "label": "66.V008.01 Open Score, 9 Evenings: Theater & Engineering"
+                    },
+                    {
+                      "id": "Q22768",
+                      "label": "66.V015.00 9 Evenings: Theatre and Engineering (Behind the scene)"
+                    }
+                  ]
+                },
+                {
+                  "id": "Q28955",
+                  "label": "sound recording",
+                  "instances": [
+                    {
+                      "id": "Q24222",
+                      "label": "Funakukushi"
+                    },
+                    {
+                      "id": "Q24717",
+                      "label": "horses hooves sound recording"
+                    },
+                    {
+                      "id": "Q24718",
+                      "label": "shattering glass sound recording"
+                    },
+                    {
+                      "id": "Q24719",
+                      "label": "ducks sound recording"
+                    },
+                    {
+                      "id": "Q24720",
+                      "label": "frogs sound recording"
+                    },
+                    {
+                      "id": "Q24721",
+                      "label": "cicadas sound recording"
+                    },
+                    {
+                      "id": "Q24722",
+                      "label": "lions roaring sound recording"
+                    }
+                  ]
+                }
+              ],
+              "instances": [
+                {
+                  "id": "Q23779",
+                  "label": "sound system"
+                },
+                {
+                  "id": "Q24363",
+                  "label": "speaker"
+                },
+                {
+                  "id": "Q24365",
+                  "label": "tape recorder"
+                },
+                {
+                  "id": "Q24366",
+                  "label": "receiver"
+                },
+                {
+                  "id": "Q24368",
+                  "label": "vocoder"
+                },
+                {
+                  "id": "Q24372",
+                  "label": "amplifier"
+                },
+                {
+                  "id": "Q24375",
+                  "label": "contact microphone"
+                },
+                {
+                  "id": "Q24400",
+                  "label": "microphone"
+                },
+                {
+                  "id": "Q24706",
+                  "label": "reel-to-reel audio tape recording"
+                },
+                {
+                  "id": "Q29520",
+                  "label": "frequency generator"
+                }
+              ]
+            },
+            {
+              "id": "Q29607",
+              "label": "visual projection or display device",
+              "instances": [
+                {
+                  "id": "Q23408",
+                  "label": "computer-generated picture"
+                },
+                {
+                  "id": "Q24373",
+                  "label": "projector"
+                },
+                {
+                  "id": "Q24403",
+                  "label": "computer generated image"
+                },
+                {
+                  "id": "Q24467",
+                  "label": "silkscreen"
+                },
+                {
+                  "id": "Q24484",
+                  "label": "electro-writer"
+                },
+                {
+                  "id": "Q24487",
+                  "label": "outdoor projection screen for Centre Georges Pompidou"
+                },
+                {
+                  "id": "Q24489",
+                  "label": "Eidophor projector"
+                },
+                {
+                  "id": "Q24535",
+                  "label": "hologram"
+                },
+                {
+                  "id": "Q29464",
+                  "label": "screen"
+                },
+                {
+                  "id": "Q29492",
+                  "label": "television projector"
+                },
+                {
+                  "id": "Q29493",
+                  "label": "film projector"
+                },
+                {
+                  "id": "Q29497",
+                  "label": "white screen"
+                },
+                {
+                  "id": "Q29499",
+                  "label": "screen projector"
+                },
+                {
+                  "id": "Q29524",
+                  "label": "movie projection"
+                }
+              ]
+            },
+            {
+              "id": "Q29614",
+              "label": "imaging device",
+              "subclasses": [
+                {
+                  "id": "Q27420",
+                  "label": "audio-visual recording",
+                  "instances": [
+                    {
+                      "id": "Q22767",
+                      "label": "66.V008.01 Open Score, 9 Evenings: Theater & Engineering"
+                    },
+                    {
+                      "id": "Q22768",
+                      "label": "66.V015.00 9 Evenings: Theatre and Engineering (Behind the scene)"
+                    }
+                  ]
+                }
+              ],
+              "instances": [
+                {
+                  "id": "Q23517",
+                  "label": "infrared television system"
+                },
+                {
+                  "id": "Q24349",
+                  "label": "electric light"
+                },
+                {
+                  "id": "Q24367",
+                  "label": "television"
+                },
+                {
+                  "id": "Q24374",
+                  "label": "camera"
+                },
+                {
+                  "id": "Q27409",
+                  "label": "lighting equipment"
+                },
+                {
+                  "id": "Q29525",
+                  "label": "infrared television camera"
+                }
+              ]
+            }
+          ],
+          "instances": [
+            {
+              "id": "Q23407",
+              "label": "Beflix Language"
+            },
+            {
+              "id": "Q24339",
+              "label": "car"
+            },
+            {
+              "id": "Q24358",
+              "label": "motor"
+            },
+            {
+              "id": "Q24361",
+              "label": "battery"
+            },
+            {
+              "id": "Q24369",
+              "label": "Geiger counter"
+            },
+            {
+              "id": "Q24376",
+              "label": "typewriter"
+            },
+            {
+              "id": "Q24450",
+              "label": "machine"
+            },
+            {
+              "id": "Q24569",
+              "label": "electrode"
+            },
+            {
+              "id": "Q29375",
+              "label": "refrigerating apparatus"
+            },
+            {
+              "id": "Q29543",
+              "label": "magnetic tape"
+            },
+            {
+              "id": "Q29550",
+              "label": "propeller"
+            },
+            {
+              "id": "Q29556",
+              "label": "axel"
+            },
+            {
+              "id": "Q29557",
+              "label": "cowl"
+            },
+            {
+              "id": "Q29560",
+              "label": "robot"
+            }
+          ]
+        }
+      ],
+      "instances": [
+        {
+          "id": "Q24045",
+          "label": "Experimental Radio Service"
+        },
+        {
+          "id": "Q29377",
+          "label": "demodulator"
+        },
+        {
+          "id": "Q29378",
+          "label": "ionovac transducer"
+        },
+        {
+          "id": "Q29379",
+          "label": "AVC"
+        },
+        {
+          "id": "Q29380",
+          "label": "AGC"
+        },
+        {
+          "id": "Q29383",
+          "label": "cueing system for Open Score"
+        },
+        {
+          "id": "Q29384",
+          "label": "floor cover"
+        },
+        {
+          "id": "Q29386",
+          "label": "TV Oscillator"
+        },
+        {
+          "id": "Q29562",
+          "label": "photocell"
+        },
+        {
+          "id": "Q29574",
+          "label": "water jet"
+        },
+        {
+          "id": "Q29580",
+          "label": "radio wave"
+        },
+        {
+          "id": "Q29581",
+          "label": "radio equipment"
+        },
+        {
+          "id": "Q29582",
+          "label": "radio tape"
+        },
+        {
+          "id": "Q29583",
+          "label": "sound-controlled projectile"
+        },
+        {
+          "id": "Q29585",
+          "label": "photocell"
+        },
+        {
+          "id": "Q29586",
+          "label": "pulse amplifier"
+        },
+        {
+          "id": "Q29587",
+          "label": "electrowriter"
+        },
+        {
+          "id": "Q29588",
+          "label": "light wave"
+        },
+        {
+          "id": "Q29589",
+          "label": "sound detector"
+        },
+        {
+          "id": "Q29590",
+          "label": "reflector"
+        },
+        {
+          "id": "Q29591",
+          "label": "doppler effect"
+        },
+        {
+          "id": "Q29689",
+          "label": "IBM 704"
+        },
+        {
+          "id": "Q29690",
+          "label": "Apple II"
+        },
+        {
+          "id": "Q29691",
+          "label": "Music Mouse"
+        },
+        {
+          "id": "Q29692",
+          "label": "FORTRAN IV"
+        },
+        {
+          "id": "Q29693",
+          "label": "Voyager 1"
+        },
+        {
+          "id": "Q29694",
+          "label": "Rutt/Etra Video Synthesizer"
+        },
+        {
+          "id": "Q29695",
+          "label": "Pretty Good Privacy"
+        },
+        {
+          "id": "Q29696",
+          "label": "Perceptual audio coder"
+        },
+        {
+          "id": "Q29713",
+          "label": "touch-tone telephone"
+        },
+        {
+          "id": "Q29719",
+          "label": "synchronous sound motion picture system"
+        },
+        {
+          "id": "Q29720",
+          "label": "electrical relay digital computer"
+        },
+        {
+          "id": "Q29723",
+          "label": "Sputnik 1"
+        },
+        {
+          "id": "Q29733",
+          "label": "Coordinome"
+        },
+        {
+          "id": "Q29735",
+          "label": "Mac"
+        },
+        {
+          "id": "Q29738",
+          "label": "backward wave magnetron amplifiers"
+        }
+      ]
+    },
+    {
+      "id": "Q29600",
+      "label": "theatrical prop",
+      "subclasses": [
+        {
+          "id": "Q24355",
+          "label": "home appliance",
+          "instances": [
+            {
+              "id": "Q24711",
+              "label": "vacuum"
+            },
+            {
+              "id": "Q29512",
+              "label": "blender"
+            },
+            {
+              "id": "Q29513",
+              "label": "juicer"
+            },
+            {
+              "id": "Q29514",
+              "label": "toaster"
+            },
+            {
+              "id": "Q29516",
+              "label": "fan"
+            },
+            {
+              "id": "Q29542",
+              "label": "vacuum cleaner motor"
+            },
+            {
+              "id": "Q29573",
+              "label": "refrigerator"
+            }
+          ]
+        }
+      ],
+      "instances": [
+        {
+          "id": "Q20630",
+          "label": "piano"
+        },
+        {
+          "id": "Q23228",
+          "label": "artificial mud"
+        },
+        {
+          "id": "Q23230",
+          "label": "oil well"
+        },
+        {
+          "id": "Q24339",
+          "label": "car"
+        },
+        {
+          "id": "Q24341",
+          "label": "Lyndon B. Johnson puppet"
+        },
+        {
+          "id": "Q24342",
+          "label": "Chinese sparrow"
+        },
+        {
+          "id": "Q24350",
+          "label": "chair"
+        },
+        {
+          "id": "Q24376",
+          "label": "typewriter"
+        },
+        {
+          "id": "Q24382",
+          "label": "found object"
+        },
+        {
+          "id": "Q24687",
+          "label": "kite"
+        },
+        {
+          "id": "Q24703",
+          "label": "dummy"
+        },
+        {
+          "id": "Q25732",
+          "label": "pail filled with dry ice"
+        },
+        {
+          "id": "Q25744",
+          "label": "Noguchi mask"
+        },
+        {
+          "id": "Q29381",
+          "label": "net"
+        },
+        {
+          "id": "Q29500",
+          "label": "cloth (sack)"
+        },
+        {
+          "id": "Q29508",
+          "label": "plastic plate"
+        },
+        {
+          "id": "Q29521",
+          "label": "bucket"
+        },
+        {
+          "id": "Q29545",
+          "label": "tire"
+        }
+      ]
+    },
+    {
+      "id": "Q29601",
+      "label": "theatrical scenery component",
+      "instances": [
+        {
+          "id": "Q24487",
+          "label": "outdoor projection screen for Centre Georges Pompidou"
+        },
+        {
+          "id": "Q24667",
+          "label": "dome"
+        },
+        {
+          "id": "Q24668",
+          "label": "cage"
+        },
+        {
+          "id": "Q24670",
+          "label": "slate"
+        },
+        {
+          "id": "Q24671",
+          "label": "tile"
+        },
+        {
+          "id": "Q24676",
+          "label": "pole"
+        },
+        {
+          "id": "Q29459",
+          "label": "slat"
+        },
+        {
+          "id": "Q29460",
+          "label": "slab"
+        },
+        {
+          "id": "Q29461",
+          "label": "cube"
+        },
+        {
+          "id": "Q29462",
+          "label": "plank"
+        },
+        {
+          "id": "Q29465",
+          "label": "swing"
+        },
+        {
+          "id": "Q29497",
+          "label": "white screen"
+        },
+        {
+          "id": "Q29509",
+          "label": "wooden boxes/platform"
+        },
+        {
+          "id": "Q29522",
+          "label": "floating platform"
+        },
+        {
+          "id": "Q29544",
+          "label": "sand-blasted Plexiglass panel"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
+    "seed_items": 24,
+    "total_items_discovered": 586,
+    "subclass_relationships": 100,
+    "instance_relationships": 553,
+    "manually_excluded": [
+      {
+        "id": "Q19053",
+        "label": "place"
+      },
+      {
+        "id": "Q19048",
+        "label": "agent"
+      },
+      {
+        "id": "Q19071",
+        "label": "event"
+      },
+      {
+        "id": "Q26150",
+        "label": "work"
+      },
+      {
+        "id": "Q28932",
+        "label": "artwork (object)"
+      },
+      {
+        "id": "Q19069",
+        "label": "document"
+      }
+    ],
+    "properties_used": {
+      "P1": "instance of",
+      "P55": "subclass of",
+      "P199": "superclass of"
+    }
+  }
+}
