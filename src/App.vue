@@ -176,6 +176,7 @@ body {
   background: linear-gradient(170deg, #f5eedd 0%, #ede4cc 40%, #e3d8be 100%);
   min-height: 100vh;
   color: var(--color-ink);
+  font-size: 16px;
   -webkit-font-smoothing: antialiased;
 }
 </style>
@@ -214,7 +215,7 @@ body {
 .subtitle {
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 400;
-  font-size: 0.78rem;
+  font-size: 0.88rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--color-ink-light);
@@ -238,7 +239,7 @@ body {
 .category-tabs button {
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 600;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   padding: 0.65rem 1.2rem;
@@ -274,7 +275,7 @@ body {
 .search-bar input {
   width: 100%;
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   padding: 0.55rem 0.8rem;
   border: 2px solid var(--color-rule);
   background: rgba(255, 255, 255, 0.45);
@@ -294,7 +295,7 @@ body {
 .search-count {
   display: block;
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   color: var(--color-ink-light);
   margin-top: 0.3rem;
   letter-spacing: 0.03em;
@@ -318,14 +319,14 @@ body {
 
 .category-description {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   line-height: 1.6;
   color: var(--color-ink-light);
 }
 
 .status-message {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   color: var(--color-ink-light);
   text-align: center;
   padding: 3rem 1rem;
@@ -356,7 +357,7 @@ body {
 
 .footer p {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   color: var(--color-rule);
   letter-spacing: 0.05em;
 }

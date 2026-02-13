@@ -188,20 +188,20 @@ export default {
 }
 
 .node-label.depth-0 {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 
 .node-label.depth-1 {
-  font-size: 1.25rem;
+  font-size: 1.4rem;
 }
 
 .node-label.depth-2 {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 
 .node-id {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.65rem;
+  font-size: 0.75rem;
   color: var(--color-rule, #8b8578);
   flex-shrink: 0;
 }
@@ -231,7 +231,7 @@ export default {
 
 .node-description {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   line-height: 1.55;
   color: var(--color-ink-light, #4a4a42);
   margin: 0 0 0.4rem;
@@ -249,7 +249,7 @@ export default {
 .meta-label {
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 600;
-  font-size: 0.65rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: var(--color-ink-light, #4a4a42);
@@ -259,7 +259,7 @@ export default {
 
 .meta-values {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   color: var(--color-ink, #1a1a17);
   line-height: 1.7;
   display: inline;
