@@ -1103,6 +1103,9 @@
         }
       ],
       "description": "substance that can occur in different amounts, all with some similar [mixture of some] characteristics, and with which objects can be made",
+      "exact_match": [
+        "http://vocab.getty.edu/page/aat/300010357"
+      ],
       "thumbnail": [
         "https://semlab.s3.amazonaws.com/images/Q23229.jpg"
       ]
@@ -2037,6 +2040,9 @@
                   "id": "Q29213",
                   "label": "Grass Field (9 Evenings performance on October 22, 1966)"
                 }
+              ],
+              "exact_match": [
+                "http://vocab.getty.edu/page/aat/300379784"
               ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q29584.jpg"
@@ -4415,6 +4421,15 @@
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29738.jpg"
           ]
+        },
+        {
+          "id": "Q29787",
+          "label": "voltage-controlled synthesizers"
+        },
+        {
+          "id": "Q29788",
+          "label": "synthesizer",
+          "description": "electronic musical instrument capable of producing a wide range of sounds"
         }
       ],
       "description": "making, modification, usage, and knowledge of tools, machines, techniques, crafts, systems, and methods of organization in order to solve a problem, improve a preexisting solution to a problem, or achieve a goal.",
@@ -5028,9 +5043,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 586,
-    "subclass_relationships": 100,
-    "instance_relationships": 553,
+    "total_items_discovered": 621,
+    "subclass_relationships": 106,
+    "instance_relationships": 584,
     "manually_excluded": [
       {
         "id": "Q19053",
@@ -5046,7 +5061,7 @@
       },
       {
         "id": "Q26150",
-        "label": "work"
+        "label": "concept"
       },
       {
         "id": "Q28932",

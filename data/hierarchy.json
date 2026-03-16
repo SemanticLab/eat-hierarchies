@@ -1311,6 +1311,14 @@
         {
           "id": "Q29738",
           "label": "backward wave magnetron amplifiers"
+        },
+        {
+          "id": "Q29787",
+          "label": "voltage-controlled synthesizers"
+        },
+        {
+          "id": "Q29788",
+          "label": "synthesizer"
         }
       ]
     },
@@ -1498,9 +1506,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 586,
-    "subclass_relationships": 100,
-    "instance_relationships": 553,
+    "total_items_discovered": 621,
+    "subclass_relationships": 106,
+    "instance_relationships": 584,
     "manually_excluded": [
       {
         "id": "Q19053",
@@ -1516,7 +1524,7 @@
       },
       {
         "id": "Q26150",
-        "label": "work"
+        "label": "concept"
       },
       {
         "id": "Q28932",
