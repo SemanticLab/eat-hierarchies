@@ -9,8 +9,16 @@
           "label": "wood product",
           "instances": [
             {
+              "id": "Q24232",
+              "label": "masonite"
+            },
+            {
               "id": "Q29462",
               "label": "plank"
+            },
+            {
+              "id": "Q29509",
+              "label": "wooden boxes/platform"
             }
           ]
         },
@@ -65,22 +73,8 @@
           ]
         },
         {
-          "id": "Q29608",
-          "label": "wood product",
-          "instances": [
-            {
-              "id": "Q23890",
-              "label": "pine"
-            },
-            {
-              "id": "Q24232",
-              "label": "masonite"
-            }
-          ]
-        },
-        {
           "id": "Q29609",
-          "label": "plastic/foam material",
+          "label": "plastic and foam",
           "instances": [
             {
               "id": "Q23409",
@@ -88,7 +82,7 @@
             },
             {
               "id": "Q23415",
-              "label": "Plexiglas"
+              "label": "Plexiglass"
             },
             {
               "id": "Q23417",
@@ -123,6 +117,10 @@
               "label": "polystyrene"
             },
             {
+              "id": "Q25966",
+              "label": "urethane"
+            },
+            {
               "id": "Q29463",
               "label": "foam rubber"
             },
@@ -134,11 +132,11 @@
         },
         {
           "id": "Q29610",
-          "label": "textile material",
+          "label": "textile",
           "instances": [
             {
               "id": "Q24404",
-              "label": "Hexcel materials"
+              "label": "Hexcel material"
             },
             {
               "id": "Q24674",
@@ -169,6 +167,10 @@
               "label": "linen canvas"
             }
           ]
+        },
+        {
+          "id": "Q30159",
+          "label": "wood"
         }
       ],
       "instances": [
@@ -179,16 +181,6 @@
         {
           "id": "Q24229",
           "label": "neon"
-        },
-        {
-          "id": "Q24230",
-          "label": "wood product",
-          "instances": [
-            {
-              "id": "Q29462",
-              "label": "plank"
-            }
-          ]
         },
         {
           "id": "Q24231",
@@ -223,10 +215,6 @@
         {
           "id": "Q24401",
           "label": "paper"
-        },
-        {
-          "id": "Q24404",
-          "label": "Hexcel materials"
         },
         {
           "id": "Q24415",
@@ -287,10 +275,6 @@
         {
           "id": "Q25965",
           "label": "cardboard"
-        },
-        {
-          "id": "Q25966",
-          "label": "urethane"
         },
         {
           "id": "Q29381",
@@ -422,7 +406,7 @@
         },
         {
           "id": "Q29612",
-          "label": "light phenomenon",
+          "label": "optical phenomenon",
           "instances": [
             {
               "id": "Q23410",
@@ -455,10 +439,6 @@
             {
               "id": "Q24535",
               "label": "hologram"
-            },
-            {
-              "id": "Q24555",
-              "label": "color theory"
             },
             {
               "id": "Q24664",
@@ -510,6 +490,10 @@
               "id": "Q20619",
               "label": "musical instrument",
               "instances": [
+                {
+                  "id": "Q19614",
+                  "label": "TEEM"
+                },
                 {
                   "id": "Q20620",
                   "label": "trumpet"
@@ -630,6 +614,14 @@
               "id": "Q29584",
               "label": "sensor",
               "instances": [
+                {
+                  "id": "Q22680",
+                  "label": "Doppler Sonar system for Vehicle"
+                },
+                {
+                  "id": "Q24369",
+                  "label": "Geiger counter"
+                },
                 {
                   "id": "Q24488",
                   "label": "corner reflector"
@@ -859,10 +851,6 @@
                 {
                   "id": "Q24492",
                   "label": "gas-driven heat blower"
-                },
-                {
-                  "id": "Q24493",
-                  "label": "DC power station"
                 },
                 {
                   "id": "Q24571",
@@ -1125,10 +1113,6 @@
               "label": "battery"
             },
             {
-              "id": "Q24369",
-              "label": "Geiger counter"
-            },
-            {
               "id": "Q24376",
               "label": "typewriter"
             },
@@ -1201,10 +1185,6 @@
           "label": "TV Oscillator"
         },
         {
-          "id": "Q29562",
-          "label": "photocell"
-        },
-        {
           "id": "Q29574",
           "label": "water jet"
         },
@@ -1223,10 +1203,6 @@
         {
           "id": "Q29583",
           "label": "sound-controlled projectile"
-        },
-        {
-          "id": "Q29585",
-          "label": "photocell"
         },
         {
           "id": "Q29586",
@@ -1506,9 +1482,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 621,
+    "total_items_discovered": 619,
     "subclass_relationships": 106,
-    "instance_relationships": 584,
+    "instance_relationships": 582,
     "manually_excluded": [
       {
         "id": "Q19053",

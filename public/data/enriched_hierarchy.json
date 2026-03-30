@@ -9,33 +9,46 @@
           "label": "wood product",
           "instances": [
             {
+              "id": "Q24232",
+              "label": "masonite",
+              "description": "type of hardboard",
+              "used_in": [
+                {
+                  "id": "Q24220",
+                  "label": "Carriage Discreteness"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24232.jpg"
+              ]
+            },
+            {
               "id": "Q29462",
               "label": "plank",
-              "description": "material that is flat, elongated, and rectangular with parallel faces that are higher and longer than wide",
+              "description": "flat rectangular piece of timber",
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q29462.jpg"
               ]
+            },
+            {
+              "id": "Q29509",
+              "label": "wooden boxes/platform",
+              "used_in": [
+                {
+                  "id": "Q24239",
+                  "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                },
+                {
+                  "id": "Q29213",
+                  "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q29509.jpg"
+              ]
             }
           ],
-          "description": "fibrous material from trees or other plants",
-          "used_in": [
-            {
-              "id": "Q22339",
-              "label": "Solo"
-            },
-            {
-              "id": "Q24219",
-              "label": "Bandoneon!"
-            },
-            {
-              "id": "Q24220",
-              "label": "Carriage Discreteness"
-            },
-            {
-              "id": "Q24408",
-              "label": "Pepsi Pavilion"
-            }
-          ],
+          "description": "item derived from trees, encompassing processed materials like lumber and paper",
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24230.jpg"
           ]
@@ -178,7 +191,7 @@
               ]
             }
           ],
-          "description": "Manifestations of motion pictures, stored electronically, in any media or digitized format.",
+          "description": "manifestations of motion pictures, stored electronically, in any media or digitized format.",
           "exact_match": [
             "http://vocab.getty.edu/page/aat/300028682"
           ],
@@ -187,46 +200,8 @@
           ]
         },
         {
-          "id": "Q29608",
-          "label": "wood product",
-          "instances": [
-            {
-              "id": "Q23890",
-              "label": "pine",
-              "description": "type of wood used largely in the construction and paper industries, although it is also a source of turpentine, resins, and oils, among other products",
-              "used_in": [
-                {
-                  "id": "Q23885",
-                  "label": "model airplanes (sculpture)"
-                }
-              ],
-              "thumbnail": [
-                "https://semlab.s3.amazonaws.com/images/Q23890.jpg"
-              ]
-            },
-            {
-              "id": "Q24232",
-              "label": "masonite",
-              "description": "type of hardboard",
-              "used_in": [
-                {
-                  "id": "Q24220",
-                  "label": "Carriage Discreteness"
-                }
-              ],
-              "thumbnail": [
-                "https://semlab.s3.amazonaws.com/images/Q24232.jpg"
-              ]
-            }
-          ],
-          "description": "product made out of wood",
-          "thumbnail": [
-            "https://semlab.s3.amazonaws.com/images/Q29608.jpg"
-          ]
-        },
-        {
           "id": "Q29609",
-          "label": "plastic/foam material",
+          "label": "plastic and foam",
           "instances": [
             {
               "id": "Q23409",
@@ -248,7 +223,7 @@
             },
             {
               "id": "Q23415",
-              "label": "Plexiglas",
+              "label": "Plexiglass",
               "description": "transparent thermoplastic often used in sheet form as a lightweight or shatter-resistant alternative to glass",
               "used_in": [
                 {
@@ -401,6 +376,19 @@
               ]
             },
             {
+              "id": "Q25966",
+              "label": "urethane",
+              "used_in": [
+                {
+                  "id": "Q22690",
+                  "label": "White Foam"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q25966.jpg"
+              ]
+            },
+            {
               "id": "Q29463",
               "label": "foam rubber",
               "description": "rubber that has been made with a foaming agent so that its structure is an air-filled matrix",
@@ -423,12 +411,12 @@
         },
         {
           "id": "Q29610",
-          "label": "textile material",
+          "label": "textile",
           "instances": [
             {
               "id": "Q24404",
-              "label": "Hexcel materials",
-              "description": "art materials used by E.A.T.",
+              "label": "Hexcel material",
+              "description": "materials made by American materials company",
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q24404.jpg"
               ]
@@ -492,11 +480,8 @@
             {
               "id": "Q29500",
               "label": "cloth (sack)",
+              "description": "fabric bag used as theatrical prop",
               "used_in": [
-                {
-                  "id": "Q21364",
-                  "label": "Open Score (9 Evenings performance on October 14, 1966)"
-                },
                 {
                   "id": "Q29199",
                   "label": "Open Score (9 Evenings performance on October 23, 1966)"
@@ -536,6 +521,11 @@
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29610.jpg"
           ]
+        },
+        {
+          "id": "Q30159",
+          "label": "wood",
+          "description": "broad class of fibrous materials from trees or other plants"
         }
       ],
       "instances": [
@@ -569,42 +559,6 @@
           ]
         },
         {
-          "id": "Q24230",
-          "label": "wood product",
-          "instances": [
-            {
-              "id": "Q29462",
-              "label": "plank",
-              "description": "material that is flat, elongated, and rectangular with parallel faces that are higher and longer than wide",
-              "thumbnail": [
-                "https://semlab.s3.amazonaws.com/images/Q29462.jpg"
-              ]
-            }
-          ],
-          "description": "fibrous material from trees or other plants",
-          "used_in": [
-            {
-              "id": "Q22339",
-              "label": "Solo"
-            },
-            {
-              "id": "Q24219",
-              "label": "Bandoneon!"
-            },
-            {
-              "id": "Q24220",
-              "label": "Carriage Discreteness"
-            },
-            {
-              "id": "Q24408",
-              "label": "Pepsi Pavilion"
-            }
-          ],
-          "thumbnail": [
-            "https://semlab.s3.amazonaws.com/images/Q24230.jpg"
-          ]
-        },
-        {
           "id": "Q24231",
           "label": "metal",
           "instances": [
@@ -633,6 +587,10 @@
           ],
           "description": "element, compound or alloy that is a good conductor of both electricity and heat",
           "used_in": [
+            {
+              "id": "Q23885",
+              "label": "model airplanes (sculpture)"
+            },
             {
               "id": "Q24219",
               "label": "Bandoneon!"
@@ -744,14 +702,6 @@
           "description": "thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging",
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24401.jpg"
-          ]
-        },
-        {
-          "id": "Q24404",
-          "label": "Hexcel materials",
-          "description": "art materials used by E.A.T.",
-          "thumbnail": [
-            "https://semlab.s3.amazonaws.com/images/Q24404.jpg"
           ]
         },
         {
@@ -947,19 +897,6 @@
           ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q25965.jpg"
-          ]
-        },
-        {
-          "id": "Q25966",
-          "label": "urethane",
-          "used_in": [
-            {
-              "id": "Q22690",
-              "label": "White Foam"
-            }
-          ],
-          "thumbnail": [
-            "https://semlab.s3.amazonaws.com/images/Q25966.jpg"
           ]
         },
         {
@@ -1339,7 +1276,7 @@
         },
         {
           "id": "Q29612",
-          "label": "light phenomenon",
+          "label": "optical phenomenon",
           "instances": [
             {
               "id": "Q23410",
@@ -1502,14 +1439,6 @@
               "description": "intermediate photograph that contains information for reproducing a three-dimensional image by holography",
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q24535.jpg"
-              ]
-            },
-            {
-              "id": "Q24555",
-              "label": "color theory",
-              "description": "principles around the use of color in visual arts",
-              "thumbnail": [
-                "https://semlab.s3.amazonaws.com/images/Q24555.jpg"
               ]
             },
             {
@@ -1687,6 +1616,60 @@
               "id": "Q20619",
               "label": "musical instrument",
               "instances": [
+                {
+                  "id": "Q19614",
+                  "label": "TEEM",
+                  "description": "a custom-built wireless system that enabled performers to control lights, sounds, and stage elements in real time",
+                  "used_in": [
+                    {
+                      "id": "Q21364",
+                      "label": "Open Score (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q24235",
+                      "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
+                    },
+                    {
+                      "id": "Q24236",
+                      "label": "Carriage Discreteness (9 Evenings performance on October 15, 1966)"
+                    },
+                    {
+                      "id": "Q24238",
+                      "label": "Solo (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q24239",
+                      "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q24240",
+                      "label": "Two Holes of Water (9 Evenings performance on October 18, 1966)"
+                    },
+                    {
+                      "id": "Q24241",
+                      "label": "Kisses Sweeter than Wine (9 Evenings performance on October 21, 1966)"
+                    },
+                    {
+                      "id": "Q24338",
+                      "label": "Variations VII (9 Evenings performance on October 15, 1966)"
+                    },
+                    {
+                      "id": "Q24631",
+                      "label": "Physical Things (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q24632",
+                      "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+                    },
+                    {
+                      "id": "Q29199",
+                      "label": "Open Score (9 Evenings performance on October 23, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q19614.jpg"
+                  ]
+                },
                 {
                   "id": "Q20620",
                   "label": "trumpet",
@@ -2000,6 +1983,34 @@
               "id": "Q29584",
               "label": "sensor",
               "instances": [
+                {
+                  "id": "Q22680",
+                  "label": "Doppler Sonar system for Vehicle",
+                  "description": "70 kHz sound installation used in Lucinda Childs' piece, Vehicle",
+                  "used_in": [
+                    {
+                      "id": "Q22693",
+                      "label": "Vehicle"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q22680.jpg"
+                  ]
+                },
+                {
+                  "id": "Q24369",
+                  "label": "Geiger counter",
+                  "description": "instrument used for measuring ionizing radiation",
+                  "used_in": [
+                    {
+                      "id": "Q23778",
+                      "label": "Variations VII"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24369.jpg"
+                  ]
+                },
                 {
                   "id": "Q24488",
                   "label": "corner reflector",
@@ -2903,13 +2914,6 @@
                   ],
                   "thumbnail": [
                     "https://semlab.s3.amazonaws.com/images/Q24492.jpg"
-                  ]
-                },
-                {
-                  "id": "Q24493",
-                  "label": "DC power station",
-                  "thumbnail": [
-                    "https://semlab.s3.amazonaws.com/images/Q24493.jpg"
                   ]
                 },
                 {
@@ -3907,20 +3911,6 @@
               ]
             },
             {
-              "id": "Q24369",
-              "label": "Geiger counter",
-              "description": "instrument used for measuring ionizing radiation",
-              "used_in": [
-                {
-                  "id": "Q23778",
-                  "label": "Variations VII"
-                }
-              ],
-              "thumbnail": [
-                "https://semlab.s3.amazonaws.com/images/Q24369.jpg"
-              ]
-            },
-            {
               "id": "Q24376",
               "label": "typewriter",
               "description": "machine for writing in characters",
@@ -4071,7 +4061,7 @@
         {
           "id": "Q29383",
           "label": "cueing system for Open Score",
-          "description": "system of light and sound used to control movement in Robert Rauschenberg's Open Score (1966).\"",
+          "description": "system of light and sound used to control movement in Robert Rauschenberg's Open Score (1966).",
           "used_in": [
             {
               "id": "Q19495",
@@ -4128,14 +4118,6 @@
           ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29386.jpg"
-          ]
-        },
-        {
-          "id": "Q29562",
-          "label": "photocell",
-          "description": "Light-sensitive gas-filled or vacuum tube",
-          "thumbnail": [
-            "https://semlab.s3.amazonaws.com/images/Q29562.jpg"
           ]
         },
         {
@@ -4214,14 +4196,6 @@
           ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29583.jpg"
-          ]
-        },
-        {
-          "id": "Q29585",
-          "label": "photocell",
-          "description": "light-sensitive gas-filled or vacuum tube",
-          "thumbnail": [
-            "https://semlab.s3.amazonaws.com/images/Q29585.jpg"
           ]
         },
         {
@@ -4772,11 +4746,8 @@
         {
           "id": "Q29500",
           "label": "cloth (sack)",
+          "description": "fabric bag used as theatrical prop",
           "used_in": [
-            {
-              "id": "Q21364",
-              "label": "Open Score (9 Evenings performance on October 14, 1966)"
-            },
             {
               "id": "Q29199",
               "label": "Open Score (9 Evenings performance on October 23, 1966)"
@@ -4954,7 +4925,7 @@
         {
           "id": "Q29462",
           "label": "plank",
-          "description": "material that is flat, elongated, and rectangular with parallel faces that are higher and longer than wide",
+          "description": "flat rectangular piece of timber",
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29462.jpg"
           ]
@@ -5043,9 +5014,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 621,
+    "total_items_discovered": 619,
     "subclass_relationships": 106,
-    "instance_relationships": 584,
+    "instance_relationships": 582,
     "manually_excluded": [
       {
         "id": "Q19053",
