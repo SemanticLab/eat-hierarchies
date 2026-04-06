@@ -2904,19 +2904,6 @@
                   ]
                 },
                 {
-                  "id": "Q24492",
-                  "label": "gas-driven heat blower",
-                  "used_in": [
-                    {
-                      "id": "Q24693",
-                      "label": "Opal Loop"
-                    }
-                  ],
-                  "thumbnail": [
-                    "https://semlab.s3.amazonaws.com/images/Q24492.jpg"
-                  ]
-                },
-                {
                   "id": "Q24571",
                   "label": "radio-controlled cart",
                   "used_in": [
@@ -2931,20 +2918,6 @@
                   ],
                   "thumbnail": [
                     "https://semlab.s3.amazonaws.com/images/Q24571.jpg"
-                  ]
-                },
-                {
-                  "id": "Q25730",
-                  "label": "Lucite shoe",
-                  "description": "shoes encased with Lucite made by French sculptor Arman for Map Room II. Worn by Robert Rauschenberg during the performance",
-                  "used_in": [
-                    {
-                      "id": "Q19428",
-                      "label": "Map Room II"
-                    }
-                  ],
-                  "thumbnail": [
-                    "https://semlab.s3.amazonaws.com/images/Q25730.jpg"
                   ]
                 },
                 {
@@ -3937,6 +3910,19 @@
               ]
             },
             {
+              "id": "Q24492",
+              "label": "gas-driven heat blower",
+              "used_in": [
+                {
+                  "id": "Q24693",
+                  "label": "Opal Loop"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24492.jpg"
+              ]
+            },
+            {
               "id": "Q24569",
               "label": "electrode",
               "description": "electrical conductor used to make contact with a nonmetallic part of a circuit (e.g. a semiconductor, an electrolyte or a vacuum)",
@@ -4799,6 +4785,11 @@
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29545.jpg"
           ]
+        },
+        {
+          "id": "Q30170",
+          "label": "pillow",
+          "description": "a cushion for the head"
         }
       ],
       "description": "movable physical object used on a motion picture, television, or stage set that are not costume or scenery",
@@ -5014,7 +5005,7 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 619,
+    "total_items_discovered": 620,
     "subclass_relationships": 106,
     "instance_relationships": 582,
     "manually_excluded": [
