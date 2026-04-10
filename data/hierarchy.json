@@ -5,24 +5,6 @@
       "label": "material",
       "subclasses": [
         {
-          "id": "Q24230",
-          "label": "wood product",
-          "instances": [
-            {
-              "id": "Q24232",
-              "label": "masonite"
-            },
-            {
-              "id": "Q29462",
-              "label": "plank"
-            },
-            {
-              "id": "Q29509",
-              "label": "wooden boxes/platform"
-            }
-          ]
-        },
-        {
           "id": "Q26763",
           "label": "film (material)",
           "subclasses": [
@@ -170,7 +152,37 @@
         },
         {
           "id": "Q30159",
-          "label": "wood"
+          "label": "wood",
+          "subclasses": [
+            {
+              "id": "Q24230",
+              "label": "wood product",
+              "instances": [
+                {
+                  "id": "Q24232",
+                  "label": "masonite"
+                },
+                {
+                  "id": "Q29462",
+                  "label": "plank"
+                },
+                {
+                  "id": "Q29509",
+                  "label": "wooden boxes/platform"
+                }
+              ]
+            }
+          ],
+          "instances": [
+            {
+              "id": "Q23890",
+              "label": "pine"
+            },
+            {
+              "id": "Q30169",
+              "label": "wood (material)"
+            }
+          ]
         }
       ],
       "instances": [
@@ -1482,9 +1494,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 620,
+    "total_items_discovered": 622,
     "subclass_relationships": 106,
-    "instance_relationships": 582,
+    "instance_relationships": 585,
     "manually_excluded": [
       {
         "id": "Q19053",

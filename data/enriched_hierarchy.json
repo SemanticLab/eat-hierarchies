@@ -5,55 +5,6 @@
       "label": "material",
       "subclasses": [
         {
-          "id": "Q24230",
-          "label": "wood product",
-          "instances": [
-            {
-              "id": "Q24232",
-              "label": "masonite",
-              "description": "type of hardboard",
-              "used_in": [
-                {
-                  "id": "Q24220",
-                  "label": "Carriage Discreteness"
-                }
-              ],
-              "thumbnail": [
-                "https://semlab.s3.amazonaws.com/images/Q24232.jpg"
-              ]
-            },
-            {
-              "id": "Q29462",
-              "label": "plank",
-              "description": "flat rectangular piece of timber",
-              "thumbnail": [
-                "https://semlab.s3.amazonaws.com/images/Q29462.jpg"
-              ]
-            },
-            {
-              "id": "Q29509",
-              "label": "wooden boxes/platform",
-              "used_in": [
-                {
-                  "id": "Q24239",
-                  "label": "Grass Field (9 Evenings performance on October 13, 1966)"
-                },
-                {
-                  "id": "Q29213",
-                  "label": "Grass Field (9 Evenings performance on October 22, 1966)"
-                }
-              ],
-              "thumbnail": [
-                "https://semlab.s3.amazonaws.com/images/Q29509.jpg"
-              ]
-            }
-          ],
-          "description": "item derived from trees, encompassing processed materials like lumber and paper",
-          "thumbnail": [
-            "https://semlab.s3.amazonaws.com/images/Q24230.jpg"
-          ]
-        },
-        {
           "id": "Q26763",
           "label": "film (material)",
           "subclasses": [
@@ -525,6 +476,96 @@
         {
           "id": "Q30159",
           "label": "wood",
+          "subclasses": [
+            {
+              "id": "Q24230",
+              "label": "wood product",
+              "instances": [
+                {
+                  "id": "Q24232",
+                  "label": "masonite",
+                  "description": "type of hardboard",
+                  "used_in": [
+                    {
+                      "id": "Q24220",
+                      "label": "Carriage Discreteness"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q24232.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29462",
+                  "label": "plank",
+                  "description": "flat rectangular piece of timber",
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29462.jpg"
+                  ]
+                },
+                {
+                  "id": "Q29509",
+                  "label": "wooden boxes/platform",
+                  "used_in": [
+                    {
+                      "id": "Q24239",
+                      "label": "Grass Field (9 Evenings performance on October 13, 1966)"
+                    },
+                    {
+                      "id": "Q29213",
+                      "label": "Grass Field (9 Evenings performance on October 22, 1966)"
+                    }
+                  ],
+                  "thumbnail": [
+                    "https://semlab.s3.amazonaws.com/images/Q29509.jpg"
+                  ]
+                }
+              ],
+              "description": "item derived from trees, encompassing processed materials like lumber and paper",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24230.jpg"
+              ]
+            }
+          ],
+          "instances": [
+            {
+              "id": "Q23890",
+              "label": "pine",
+              "description": "type of wood used largely in the construction and paper industries, although it is also a source of turpentine, resins, and oils, among other products",
+              "used_in": [
+                {
+                  "id": "Q23885",
+                  "label": "model airplanes (sculpture)"
+                }
+              ],
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q23890.jpg"
+              ]
+            },
+            {
+              "id": "Q30169",
+              "label": "wood (material)",
+              "description": "fibrous material from trees or other plants",
+              "used_in": [
+                {
+                  "id": "Q22339",
+                  "label": "Solo"
+                },
+                {
+                  "id": "Q24219",
+                  "label": "Bandoneon!"
+                },
+                {
+                  "id": "Q24220",
+                  "label": "Carriage Discreteness"
+                },
+                {
+                  "id": "Q24408",
+                  "label": "Pepsi Pavilion"
+                }
+              ]
+            }
+          ],
           "description": "broad class of fibrous materials from trees or other plants"
         }
       ],
@@ -5005,9 +5046,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 620,
+    "total_items_discovered": 622,
     "subclass_relationships": 106,
-    "instance_relationships": 582,
+    "instance_relationships": 585,
     "manually_excluded": [
       {
         "id": "Q19053",
