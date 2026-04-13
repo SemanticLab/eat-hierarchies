@@ -2397,15 +2397,11 @@
                 },
                 {
                   "id": "Q24362",
-                  "label": "radio transmitter",
+                  "label": "transmitter",
                   "used_in": [
                     {
                       "id": "Q19159",
                       "label": "At My Body's House"
-                    },
-                    {
-                      "id": "Q19495",
-                      "label": "Open Score"
                     },
                     {
                       "id": "Q19496",
