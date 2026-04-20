@@ -2396,35 +2396,6 @@
                   ]
                 },
                 {
-                  "id": "Q24362",
-                  "label": "transmitter",
-                  "used_in": [
-                    {
-                      "id": "Q19159",
-                      "label": "At My Body's House"
-                    },
-                    {
-                      "id": "Q19496",
-                      "label": "Oracle"
-                    },
-                    {
-                      "id": "Q22693",
-                      "label": "Vehicle"
-                    },
-                    {
-                      "id": "Q23737",
-                      "label": "Festival for Theater and Engineering"
-                    },
-                    {
-                      "id": "Q24570",
-                      "label": "Grass Field"
-                    }
-                  ],
-                  "thumbnail": [
-                    "https://semlab.s3.amazonaws.com/images/Q24362.jpg"
-                  ]
-                },
-                {
                   "id": "Q24370",
                   "label": "oscillator",
                   "description": "physical system that undergoes repetitive cyclic change",
@@ -2522,8 +2493,24 @@
                 {
                   "id": "Q29376",
                   "label": "transmitter",
-                  "description": "material used in the technology \"Doppler Sonar\"",
+                  "description": "an electronic device that generates, modulates, and emits radio waves via an antenna to communicate data wirelessly",
                   "used_in": [
+                    {
+                      "id": "Q19159",
+                      "label": "At My Body's House"
+                    },
+                    {
+                      "id": "Q19496",
+                      "label": "Oracle"
+                    },
+                    {
+                      "id": "Q22693",
+                      "label": "Vehicle"
+                    },
+                    {
+                      "id": "Q23737",
+                      "label": "Festival for Theater and Engineering"
+                    },
                     {
                       "id": "Q24235",
                       "label": "Bandoneon! (9 Evenings performance on October 14, 1966)"
@@ -2533,12 +2520,20 @@
                       "label": "Grass Field (9 Evenings performance on October 13, 1966)"
                     },
                     {
+                      "id": "Q24570",
+                      "label": "Grass Field"
+                    },
+                    {
                       "id": "Q24631",
                       "label": "Physical Things (9 Evenings performance on October 13, 1966)"
                     },
                     {
                       "id": "Q24632",
                       "label": "Vehicle (9 Evenings performance on October 16, 1966)"
+                    },
+                    {
+                      "id": "Q29206",
+                      "label": "At My Body's House (Moderna Museet performance)"
                     },
                     {
                       "id": "Q29207",
@@ -2558,7 +2553,8 @@
                     }
                   ],
                   "thumbnail": [
-                    "https://semlab.s3.amazonaws.com/images/Q29376.jpg"
+                    "https://semlab.s3.amazonaws.com/images/Q29376.jpg",
+                    "https://semlab.s3.amazonaws.com/images/Q24362.jpg"
                   ]
                 },
                 {
@@ -3867,7 +3863,7 @@
             {
               "id": "Q24339",
               "label": "car",
-              "description": "material used in Robert Whitman’s piece, Two Holes of Water.",
+              "description": "motorized road vehicle; device used in Robert Whitman’s piece, Two Holes of Water.",
               "used_in": [
                 {
                   "id": "Q19644",
@@ -4599,7 +4595,7 @@
         {
           "id": "Q24339",
           "label": "car",
-          "description": "material used in Robert Whitman’s piece, Two Holes of Water.",
+          "description": "motorized road vehicle; device used in Robert Whitman’s piece, Two Holes of Water.",
           "used_in": [
             {
               "id": "Q19644",

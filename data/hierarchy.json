@@ -731,10 +731,6 @@
                   "label": "circuit"
                 },
                 {
-                  "id": "Q24362",
-                  "label": "transmitter"
-                },
-                {
                   "id": "Q24370",
                   "label": "oscillator"
                 },
