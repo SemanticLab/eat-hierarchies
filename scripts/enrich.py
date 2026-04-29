@@ -24,6 +24,14 @@ INPUT_FILE = os.path.join(DATA_DIR, "hierarchy.json")
 OUTPUT_FILE = os.path.join(DATA_DIR, "enriched_hierarchy.json")
 BATCH_SIZE = 40
 
+ROOT_LABEL_OVERRIDES = {
+    "Q23229": "materials",
+    "Q29602": "phenomena",
+    "Q19076": "technologies",
+    "Q29600": "theatrical props",
+    "Q29601": "theatrical scenery components",
+}
+
 HEADERS = {
     "Accept": "application/sparql-results+json",
     "User-Agent": "Mozilla/5.0 (HierarchyBuilder/1.0)",
@@ -160,6 +168,10 @@ def main():
     # Apply to hierarchy
     for root in hierarchy["hierarchy"]:
         apply_enrichments(root, all_enrichments)
+
+    for root in hierarchy["hierarchy"]:
+        if root["id"] in ROOT_LABEL_OVERRIDES:
+            root["label"] = ROOT_LABEL_OVERRIDES[root["id"]]
 
     # Write output
     with open(OUTPUT_FILE, "w") as f:
