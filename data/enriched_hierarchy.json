@@ -2,7 +2,7 @@
   "hierarchy": [
     {
       "id": "Q23229",
-      "label": "material",
+      "label": "materials",
       "subclasses": [
         {
           "id": "Q24230",
@@ -1109,7 +1109,7 @@
     },
     {
       "id": "Q29602",
-      "label": "phenomenon",
+      "label": "phenomena",
       "subclasses": [
         {
           "id": "Q29611",
@@ -1674,7 +1674,7 @@
     },
     {
       "id": "Q19076",
-      "label": "technology",
+      "label": "technologies",
       "subclasses": [
         {
           "id": "Q29599",
@@ -4424,7 +4424,7 @@
     },
     {
       "id": "Q29600",
-      "label": "theatrical prop",
+      "label": "theatrical props",
       "subclasses": [
         {
           "id": "Q24355",
@@ -4822,7 +4822,7 @@
     },
     {
       "id": "Q29601",
-      "label": "theatrical scenery component",
+      "label": "theatrical scenery components",
       "instances": [
         {
           "id": "Q24487",

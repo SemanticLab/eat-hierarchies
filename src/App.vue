@@ -227,10 +227,9 @@ body {
 .category-tabs {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 0;
   border-bottom: 2px solid var(--color-ink);
-  max-width: 900px;
   margin: 0 auto;
   width: 100%;
   padding: 0 1rem;
@@ -241,8 +240,9 @@ body {
   font-weight: 600;
   font-size: 0.85rem;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  padding: 0.65rem 1.2rem;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+  padding: 0.65rem 1rem;
   border: none;
   background: transparent;
   color: var(--color-ink-light);
