@@ -1078,6 +1078,11 @@
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29740.jpg"
           ]
+        },
+        {
+          "id": "Q30759",
+          "label": "tempera",
+          "description": "painting medium consisting of colored pigment mixed with a water-soluble binder medium"
         }
       ],
       "description": "substance that can occur in different amounts, all with some similar [mixture of some] characteristics, and with which objects can be made",
@@ -1106,7 +1111,7 @@
             },
             {
               "id": "Q24565",
-              "label": "horn",
+              "label": "horn sound",
               "description": "sound used in 9 Evenings performance",
               "used_in": [
                 {
@@ -1120,7 +1125,7 @@
             },
             {
               "id": "Q24717",
-              "label": "horses hooves sound recording",
+              "label": "horses hooves recorded sound",
               "description": "sound developed by E.A.T.",
               "used_in": [
                 {
@@ -1134,7 +1139,7 @@
             },
             {
               "id": "Q24718",
-              "label": "shattering glass sound recording",
+              "label": "shattering glass recorded sound",
               "description": "sound developed by E.A.T.",
               "used_in": [
                 {
@@ -1148,7 +1153,7 @@
             },
             {
               "id": "Q24719",
-              "label": "ducks sound recording",
+              "label": "ducks recorded sound",
               "description": "sound developed by E.A.T.",
               "used_in": [
                 {
@@ -1162,7 +1167,7 @@
             },
             {
               "id": "Q24720",
-              "label": "frogs sound recording",
+              "label": "frogs recorded sound",
               "description": "sound developed by E.A.T.",
               "used_in": [
                 {
@@ -1176,7 +1181,7 @@
             },
             {
               "id": "Q24721",
-              "label": "cicadas sound recording",
+              "label": "cicadas recorded sound",
               "description": "sound developed by E.A.T.",
               "used_in": [
                 {
@@ -1190,7 +1195,7 @@
             },
             {
               "id": "Q24722",
-              "label": "lions roaring sound recording",
+              "label": "lions roaring recorded sound",
               "description": "sound developed by E.A.T.",
               "used_in": [
                 {
@@ -2849,8 +2854,8 @@
                   "description": "technology associated with E.A.T.",
                   "used_in": [
                     {
-                      "id": "Q23515",
-                      "label": "Q23515"
+                      "id": "Q22693",
+                      "label": "Vehicle"
                     },
                     {
                       "id": "Q24632",
@@ -3123,7 +3128,7 @@
                     },
                     {
                       "id": "Q24717",
-                      "label": "horses hooves sound recording",
+                      "label": "horses hooves recorded sound",
                       "description": "sound developed by E.A.T.",
                       "used_in": [
                         {
@@ -3137,7 +3142,7 @@
                     },
                     {
                       "id": "Q24718",
-                      "label": "shattering glass sound recording",
+                      "label": "shattering glass recorded sound",
                       "description": "sound developed by E.A.T.",
                       "used_in": [
                         {
@@ -3151,7 +3156,7 @@
                     },
                     {
                       "id": "Q24719",
-                      "label": "ducks sound recording",
+                      "label": "ducks recorded sound",
                       "description": "sound developed by E.A.T.",
                       "used_in": [
                         {
@@ -3165,7 +3170,7 @@
                     },
                     {
                       "id": "Q24720",
-                      "label": "frogs sound recording",
+                      "label": "frogs recorded sound",
                       "description": "sound developed by E.A.T.",
                       "used_in": [
                         {
@@ -3179,7 +3184,7 @@
                     },
                     {
                       "id": "Q24721",
-                      "label": "cicadas sound recording",
+                      "label": "cicadas recorded sound",
                       "description": "sound developed by E.A.T.",
                       "used_in": [
                         {
@@ -3193,7 +3198,7 @@
                     },
                     {
                       "id": "Q24722",
-                      "label": "lions roaring sound recording",
+                      "label": "lions roaring recorded sound",
                       "description": "sound developed by E.A.T.",
                       "used_in": [
                         {
@@ -5038,9 +5043,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 624,
-    "subclass_relationships": 106,
-    "instance_relationships": 587,
+    "total_items_discovered": 626,
+    "subclass_relationships": 107,
+    "instance_relationships": 588,
     "manually_excluded": [
       {
         "id": "Q19053",
