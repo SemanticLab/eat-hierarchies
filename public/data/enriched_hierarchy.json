@@ -219,6 +219,14 @@
               ]
             },
             {
+              "id": "Q24404",
+              "label": "Hexcel material",
+              "description": "composite materials manufactured by Hexcel Corporation",
+              "thumbnail": [
+                "https://semlab.s3.amazonaws.com/images/Q24404.jpg"
+              ]
+            },
+            {
               "id": "Q24413",
               "label": "Mylar",
               "description": "Brand of a polyester film; First introduced in the early 1950s, Mylar is composed of polyethylene terephthalate.",
@@ -365,14 +373,6 @@
           "label": "textile",
           "instances": [
             {
-              "id": "Q24404",
-              "label": "Hexcel material",
-              "description": "materials made by American materials company",
-              "thumbnail": [
-                "https://semlab.s3.amazonaws.com/images/Q24404.jpg"
-              ]
-            },
-            {
               "id": "Q24674",
               "label": "flag",
               "description": "piece of fabric with a distinctive design, used as a symbol",
@@ -463,6 +463,7 @@
             {
               "id": "Q29559",
               "label": "linen canvas",
+              "description": "woven linen fabric used as a painting support or material in artistic production",
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q29559.jpg"
               ]
@@ -1083,6 +1084,11 @@
           "id": "Q30759",
           "label": "tempera",
           "description": "painting medium consisting of colored pigment mixed with a water-soluble binder medium"
+        },
+        {
+          "id": "Q30781",
+          "label": "panel",
+          "description": "thin wooden plank used structurally or aesthetically"
         }
       ],
       "description": "substance that can occur in different amounts, all with some similar [mixture of some] characteristics, and with which objects can be made",
@@ -5043,9 +5049,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 626,
+    "total_items_discovered": 629,
     "subclass_relationships": 107,
-    "instance_relationships": 588,
+    "instance_relationships": 591,
     "manually_excluded": [
       {
         "id": "Q19053",

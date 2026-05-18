@@ -75,6 +75,10 @@
               "label": "Styrofoam"
             },
             {
+              "id": "Q24404",
+              "label": "Hexcel material"
+            },
+            {
               "id": "Q24413",
               "label": "Mylar"
             },
@@ -116,10 +120,6 @@
           "id": "Q29610",
           "label": "textile",
           "instances": [
-            {
-              "id": "Q24404",
-              "label": "Hexcel material"
-            },
             {
               "id": "Q24674",
               "label": "flag"
@@ -351,6 +351,10 @@
         {
           "id": "Q30759",
           "label": "tempera"
+        },
+        {
+          "id": "Q30781",
+          "label": "panel"
         }
       ]
     },
@@ -1494,9 +1498,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 626,
+    "total_items_discovered": 629,
     "subclass_relationships": 107,
-    "instance_relationships": 588,
+    "instance_relationships": 591,
     "manually_excluded": [
       {
         "id": "Q19053",
