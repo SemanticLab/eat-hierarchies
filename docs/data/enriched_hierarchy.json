@@ -262,6 +262,10 @@
                   "label": "Oracle"
                 },
                 {
+                  "id": "Q23885",
+                  "label": "Model Airplanes (sculpture)"
+                },
+                {
                   "id": "Q24220",
                   "label": "Carriage Discreteness"
                 }
@@ -351,6 +355,12 @@
               "id": "Q29463",
               "label": "foam rubber",
               "description": "rubber that has been made with a foaming agent so that its structure is an air-filled matrix",
+              "used_in": [
+                {
+                  "id": "Q24220",
+                  "label": "Carriage Discreteness"
+                }
+              ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q29463.jpg"
               ]
@@ -358,6 +368,12 @@
             {
               "id": "Q29544",
               "label": "sand-blasted Plexiglass panel",
+              "used_in": [
+                {
+                  "id": "Q21745",
+                  "label": "Computer Nude"
+                }
+              ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q29544.jpg"
               ]
@@ -464,6 +480,12 @@
               "id": "Q29559",
               "label": "linen canvas",
               "description": "woven linen fabric used as a painting support or material in artistic production",
+              "used_in": [
+                {
+                  "id": "Q23885",
+                  "label": "Model Airplanes (sculpture)"
+                }
+              ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q29559.jpg"
               ]
@@ -500,6 +522,12 @@
                   "id": "Q29462",
                   "label": "plank",
                   "description": "flat rectangular piece of timber",
+                  "used_in": [
+                    {
+                      "id": "Q24220",
+                      "label": "Carriage Discreteness"
+                    }
+                  ],
                   "thumbnail": [
                     "https://semlab.s3.amazonaws.com/images/Q29462.jpg"
                   ]
@@ -536,7 +564,7 @@
               "used_in": [
                 {
                   "id": "Q23885",
-                  "label": "model airplanes (sculpture)"
+                  "label": "Model Airplanes (sculpture)"
                 }
               ],
               "thumbnail": [
@@ -631,7 +659,7 @@
           "used_in": [
             {
               "id": "Q23885",
-              "label": "model airplanes (sculpture)"
+              "label": "Model Airplanes (sculpture)"
             },
             {
               "id": "Q24219",
@@ -992,6 +1020,12 @@
         {
           "id": "Q29546",
           "label": "truck door",
+          "used_in": [
+            {
+              "id": "Q19496",
+              "label": "Oracle"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29546.jpg"
           ]
@@ -1000,6 +1034,12 @@
           "id": "Q29547",
           "label": "window frame",
           "description": "framework around a window",
+          "used_in": [
+            {
+              "id": "Q19496",
+              "label": "Oracle"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29547.jpg"
           ]
@@ -1008,6 +1048,12 @@
           "id": "Q29548",
           "label": "bathtub",
           "description": "large container for holding water in which a person may bathe",
+          "used_in": [
+            {
+              "id": "Q19496",
+              "label": "Oracle"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29548.jpg"
           ]
@@ -1016,6 +1062,12 @@
           "id": "Q29549",
           "label": "air vent",
           "description": "conduit to direct airflow, used in heating, ventilation, and air conditioning",
+          "used_in": [
+            {
+              "id": "Q19496",
+              "label": "Oracle"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29549.jpg"
           ]
@@ -1023,6 +1075,12 @@
         {
           "id": "Q29551",
           "label": "giant rubber band",
+          "used_in": [
+            {
+              "id": "Q23885",
+              "label": "Model Airplanes (sculpture)"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29551.jpg"
           ]
@@ -1030,6 +1088,12 @@
         {
           "id": "Q29552",
           "label": "hot glue",
+          "used_in": [
+            {
+              "id": "Q23885",
+              "label": "Model Airplanes (sculpture)"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29552.jpg"
           ]
@@ -1038,6 +1102,12 @@
           "id": "Q29553",
           "label": "screw",
           "description": "fastener that has a thread wrapped around a cylinder",
+          "used_in": [
+            {
+              "id": "Q23885",
+              "label": "Model Airplanes (sculpture)"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29553.jpg"
           ]
@@ -1046,6 +1116,12 @@
           "id": "Q29554",
           "label": "bolt",
           "description": "small metal rods used as fasteners having a head and often helical threading and being usually secured by a nut or by riveting",
+          "used_in": [
+            {
+              "id": "Q23885",
+              "label": "Model Airplanes (sculpture)"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29554.jpg"
           ]
@@ -1053,6 +1129,12 @@
         {
           "id": "Q29558",
           "label": "synthetic paint",
+          "used_in": [
+            {
+              "id": "Q23885",
+              "label": "Model Airplanes (sculpture)"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29558.jpg"
           ]
@@ -4826,6 +4908,16 @@
           "id": "Q29545",
           "label": "tire",
           "description": "ring-shaped covering that fits around a wheel's rim",
+          "used_in": [
+            {
+              "id": "Q19496",
+              "label": "Oracle"
+            },
+            {
+              "id": "Q23885",
+              "label": "Model Airplanes (sculpture)"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29545.jpg"
           ]
@@ -4961,6 +5053,12 @@
           "id": "Q29462",
           "label": "plank",
           "description": "flat rectangular piece of timber",
+          "used_in": [
+            {
+              "id": "Q24220",
+              "label": "Carriage Discreteness"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29462.jpg"
           ]
@@ -5035,6 +5133,12 @@
         {
           "id": "Q29544",
           "label": "sand-blasted Plexiglass panel",
+          "used_in": [
+            {
+              "id": "Q21745",
+              "label": "Computer Nude"
+            }
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29544.jpg"
           ]
