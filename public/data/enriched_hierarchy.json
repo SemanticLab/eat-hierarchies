@@ -1156,13 +1156,6 @@
           ]
         },
         {
-          "id": "Q29740",
-          "label": "ultrasonic beams",
-          "thumbnail": [
-            "https://semlab.s3.amazonaws.com/images/Q29740.jpg"
-          ]
-        },
-        {
           "id": "Q30759",
           "label": "tempera",
           "description": "painting medium consisting of colored pigment mixed with a water-soluble binder medium"
@@ -5153,9 +5146,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 629,
+    "total_items_discovered": 628,
     "subclass_relationships": 107,
-    "instance_relationships": 591,
+    "instance_relationships": 590,
     "manually_excluded": [
       {
         "id": "Q19053",
