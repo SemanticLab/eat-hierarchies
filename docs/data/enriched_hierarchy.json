@@ -186,6 +186,9 @@
                   "label": "Bill Harper 1967"
                 }
               ],
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Plexiglass"
+              ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q23415.jpg"
               ]
@@ -213,6 +216,9 @@
                   "id": "Q24220",
                   "label": "Carriage Discreteness"
                 }
+              ],
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Styrofoam"
               ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q24344.jpg"
@@ -247,6 +253,9 @@
                   "id": "Q24460",
                   "label": "PAGEOS"
                 }
+              ],
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Mylar"
               ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q24413.jpg"
@@ -288,6 +297,9 @@
                   "label": "Lucite shoe"
                 }
               ],
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Lucite"
+              ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q24568.jpg"
               ]
@@ -315,6 +327,9 @@
                   "id": "Q24408",
                   "label": "Pepsi Pavilion"
                 }
+              ],
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Asphalt"
               ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q24672.jpg"
@@ -346,6 +361,9 @@
                   "id": "Q22690",
                   "label": "White Foam"
                 }
+              ],
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Urethane"
               ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q25966.jpg"
@@ -472,6 +490,9 @@
                   "label": "Grass Field (9 Evenings performance on October 22, 1966)"
                 }
               ],
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Cloth"
+              ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q29501.jpg"
               ]
@@ -513,6 +534,9 @@
                       "id": "Q24220",
                       "label": "Carriage Discreteness"
                     }
+                  ],
+                  "exact_match": [
+                    "https://cameo.mfa.org/wiki/Masonite"
                   ],
                   "thumbnail": [
                     "https://semlab.s3.amazonaws.com/images/Q24232.jpg"
@@ -567,6 +591,9 @@
                   "label": "Model Airplanes (sculpture)"
                 }
               ],
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Pine"
+              ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q23890.jpg"
               ]
@@ -592,10 +619,16 @@
                   "id": "Q24408",
                   "label": "Pepsi Pavilion"
                 }
+              ],
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Wood"
               ]
             }
           ],
-          "description": "broad class of fibrous materials from trees or other plants"
+          "description": "broad class of fibrous materials from trees or other plants",
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Wood"
+          ]
         }
       ],
       "instances": [
@@ -622,7 +655,8 @@
           ],
           "exact_match": [
             "http://vocab.getty.edu/page/aat/300180393",
-            "http://id.loc.gov/authorities/subjects/sh85090790"
+            "http://id.loc.gov/authorities/subjects/sh85090790",
+            "https://cameo.mfa.org/wiki/Neon"
           ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24229.jpg"
@@ -650,6 +684,9 @@
               "id": "Q29555",
               "label": "steel",
               "description": "alloy made by combining iron and other elements",
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Steel"
+              ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q29555.jpg"
               ]
@@ -665,6 +702,9 @@
               "id": "Q24219",
               "label": "Bandoneon!"
             }
+          ],
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Metal"
           ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24231.jpg"
@@ -683,6 +723,9 @@
               "id": "Q24573",
               "label": "Untitled cloud sculpture for Pepsi Pavilion"
             }
+          ],
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Water"
           ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24233.jpg"
@@ -748,6 +791,9 @@
               "label": "Two Holes of Water (9 Evenings performance on October 19, 1966)"
             }
           ],
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Mirror"
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24356.jpg"
           ]
@@ -770,6 +816,9 @@
           "id": "Q24401",
           "label": "paper",
           "description": "thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging",
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Paper"
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24401.jpg"
           ]
@@ -783,6 +832,9 @@
               "id": "Q24414",
               "label": "Clam Room"
             }
+          ],
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Glass"
           ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24415.jpg"
@@ -854,6 +906,9 @@
               "label": "Pepsi Pavilion"
             }
           ],
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Slate"
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24670.jpg"
           ]
@@ -924,6 +979,9 @@
               "label": "Untitled stone and fog artwork"
             }
           ],
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Stone"
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24696.jpg"
           ]
@@ -965,6 +1023,9 @@
               "label": "White Foam"
             }
           ],
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Cardboard"
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q25965.jpg"
           ]
@@ -986,6 +1047,9 @@
               "id": "Q29199",
               "label": "Open Score (9 Evenings performance on October 23, 1966)"
             }
+          ],
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Net"
           ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29381.jpg"
@@ -1013,6 +1077,9 @@
           "id": "Q29527",
           "label": "carbon black",
           "description": "chemical substance",
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Carbon_black"
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29527.jpg"
           ]
@@ -1143,6 +1210,9 @@
           "id": "Q29561",
           "label": "phosphor",
           "description": "luminescent substance",
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Phosphor"
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29561.jpg"
           ]
@@ -1151,6 +1221,9 @@
           "id": "Q29729",
           "label": "polyurethane",
           "description": "polymer composed of a chain of organic units joined by carbamate (urethane) links",
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Polyurethane"
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29729.jpg"
           ]
@@ -1508,7 +1581,8 @@
               ],
               "exact_match": [
                 "http://vocab.getty.edu/page/aat/300053341",
-                "http://id.loc.gov/authorities/subjects/sh85061533"
+                "http://id.loc.gov/authorities/subjects/sh85061533",
+                "https://cameo.mfa.org/wiki/Holography"
               ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q24399.jpg"
@@ -1565,6 +1639,9 @@
               "id": "Q24535",
               "label": "hologram",
               "description": "intermediate photograph that contains information for reproducing a three-dimensional image by holography",
+              "exact_match": [
+                "https://cameo.mfa.org/wiki/Hologram"
+              ],
               "thumbnail": [
                 "https://semlab.s3.amazonaws.com/images/Q24535.jpg"
               ]
@@ -3622,6 +3699,9 @@
                   "id": "Q24535",
                   "label": "hologram",
                   "description": "intermediate photograph that contains information for reproducing a three-dimensional image by holography",
+                  "exact_match": [
+                    "https://cameo.mfa.org/wiki/Hologram"
+                  ],
                   "thumbnail": [
                     "https://semlab.s3.amazonaws.com/images/Q24535.jpg"
                   ]
@@ -4845,6 +4925,9 @@
               "label": "Open Score (9 Evenings performance on October 23, 1966)"
             }
           ],
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Net"
+          ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q29381.jpg"
           ]
@@ -4976,6 +5059,9 @@
               "id": "Q24408",
               "label": "Pepsi Pavilion"
             }
+          ],
+          "exact_match": [
+            "https://cameo.mfa.org/wiki/Slate"
           ],
           "thumbnail": [
             "https://semlab.s3.amazonaws.com/images/Q24670.jpg"
