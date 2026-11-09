@@ -1494,9 +1494,9 @@
   "metadata": {
     "endpoint": "https://query.semlab.io/proxy/wdqs/bigdata/namespace/wdq/sparql",
     "seed_items": 24,
-    "total_items_discovered": 633,
-    "subclass_relationships": 107,
-    "instance_relationships": 595,
+    "total_items_discovered": 642,
+    "subclass_relationships": 109,
+    "instance_relationships": 602,
     "manually_excluded": [
       {
         "id": "Q19053",
